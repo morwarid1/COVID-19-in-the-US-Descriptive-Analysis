@@ -1,0 +1,3341 @@
+,State_x,Confirmed,Deaths
+0,Alabama,1715,25
+1,Alabama,5141,49
+2,Alabama,851,7
+3,Alabama,638,10
+4,Alabama,1580,15
+5,Alabama,597,14
+6,Alabama,911,39
+7,Alabama,3401,40
+8,Alabama,1144,42
+9,Alabama,583,15
+10,Alabama,1524,31
+11,Alabama,344,12
+12,Alabama,1070,17
+13,Alabama,554,7
+14,Alabama,335,6
+15,Alabama,1298,8
+16,Alabama,1629,26
+17,Alabama,530,11
+18,Alabama,167,3
+19,Alabama,1334,27
+20,Alabama,527,32
+21,Alabama,1868,18
+22,Alabama,1346,44
+23,Alabama,1759,26
+24,Alabama,2375,19
+25,Alabama,2596,47
+26,Alabama,1577,25
+27,Alabama,3402,47
+28,Alabama,435,8
+29,Alabama,1752,29
+30,Alabama,586,4
+31,Alabama,303,15
+32,Alabama,619,28
+33,Alabama,483,5
+34,Alabama,2764,23
+35,Alabama,1540,11
+36,Alabama,19306,349
+37,Alabama,357,2
+38,Alabama,1673,33
+39,Alabama,605,22
+40,Alabama,5792,61
+41,Alabama,2033,19
+42,Alabama,652,27
+43,Alabama,479,20
+44,Alabama,7709,78
+45,Alabama,705,19
+46,Alabama,954,29
+47,Alabama,3892,44
+48,Alabama,13233,291
+49,Alabama,580,8
+50,Alabama,8748,177
+51,Alabama,3239,26
+52,Alabama,0,0
+53,Alabama,539,6
+54,Alabama,645,14
+55,Alabama,1179,9
+56,Alabama,627,13
+57,Alabama,1732,2
+58,Alabama,5787,50
+59,Alabama,2263,37
+60,Alabama,432,19
+61,Alabama,2106,28
+62,Alabama,1138,85
+63,Alabama,7418,116
+64,Alabama,0,0
+65,Alabama,2253,83
+66,Alabama,551,13
+67,Alabama,530,11
+68,Alabama,718,12
+69,Alaska,2,0
+70,Alaska,8,0
+71,Alaska,3926,28
+72,Alaska,96,1
+73,Alaska,10,0
+74,Alaska,2,0
+75,Alaska,8,0
+76,Alaska,1001,9
+77,Alaska,5,0
+78,Alaska,0,0
+79,Alaska,273,1
+80,Alaska,440,2
+81,Alaska,49,0
+82,Alaska,21,0
+83,Alaska,12,0
+84,Alaska,0,0
+85,Alaska,587,2
+86,Alaska,57,0
+87,Alaska,96,0
+88,Alaska,98,0
+89,Alaska,0,0
+90,Alaska,7,1
+91,Alaska,30,0
+92,Alaska,44,0
+93,Alaska,0,0
+94,Alaska,24,0
+95,Alaska,17,0
+96,Alaska,76,0
+97,Alaska,13,0
+98,Alaska,23,0
+99,Alaska,79,1
+100,American Samoa,0,0
+101,Arizona,3476,164
+102,Arizona,1886,71
+103,Arizona,3819,133
+104,Arizona,1245,51
+105,Arizona,808,24
+106,Arizona,59,2
+107,Arizona,536,15
+108,Arizona,140409,3304
+109,Arizona,3930,223
+110,Arizona,5763,233
+111,Arizona,0,0
+112,Arizona,25004,613
+113,Arizona,10422,206
+114,Arizona,2823,63
+115,Arizona,0,0
+116,Arizona,2495,79
+117,Arizona,12609,344
+118,Arkansas,371,5
+119,Arkansas,428,9
+120,Arkansas,302,2
+121,Arkansas,6399,82
+122,Arkansas,664,10
+123,Arkansas,340,8
+124,Arkansas,34,0
+125,Arkansas,630,9
+126,Arkansas,1001,19
+127,Arkansas,322,4
+128,Arkansas,277,7
+129,Arkansas,315,8
+130,Arkansas,179,10
+131,Arkansas,399,18
+132,Arkansas,255,3
+133,Arkansas,2759,21
+134,Arkansas,1303,15
+135,Arkansas,1903,45
+136,Arkansas,422,8
+137,Arkansas,158,3
+138,Arkansas,284,5
+139,Arkansas,350,6
+140,Arkansas,2363,19
+141,Arkansas,261,2
+142,Arkansas,134,3
+143,Arkansas,1798,49
+144,Arkansas,252,2
+145,Arkansas,823,8
+146,Arkansas,359,4
+147,Arkansas,1863,26
+148,Arkansas,463,8
+149,Arkansas,1051,17
+150,Arkansas,202,0
+151,Arkansas,302,1
+152,Arkansas,2999,64
+153,Arkansas,829,5
+154,Arkansas,98,2
+155,Arkansas,391,12
+156,Arkansas,1052,18
+157,Arkansas,1943,15
+158,Arkansas,352,25
+159,Arkansas,398,1
+160,Arkansas,1102,11
+161,Arkansas,337,2
+162,Arkansas,83,0
+163,Arkansas,797,11
+164,Arkansas,1636,50
+165,Arkansas,121,0
+166,Arkansas,139,4
+167,Arkansas,214,13
+168,Arkansas,226,18
+169,Arkansas,252,6
+170,Arkansas,0,0
+171,Arkansas,85,0
+172,Arkansas,470,11
+173,Arkansas,223,3
+174,Arkansas,632,11
+175,Arkansas,253,4
+176,Arkansas,2054,30
+177,Arkansas,142,1
+178,Arkansas,8881,143
+179,Arkansas,395,22
+180,Arkansas,2007,23
+181,Arkansas,97,1
+182,Arkansas,141,1
+183,Arkansas,3543,58
+184,Arkansas,1196,16
+185,Arkansas,208,6
+186,Arkansas,1491,6
+187,Arkansas,322,7
+188,Arkansas,1624,0
+189,Arkansas,858,32
+190,Arkansas,172,2
+191,Arkansas,9178,109
+192,Arkansas,768,21
+193,Arkansas,48,0
+194,Arkansas,1240,29
+195,California,20839,395
+196,California,2,0
+197,California,287,16
+198,California,2776,40
+199,California,314,14
+200,California,522,6
+201,California,16156,202
+202,California,138,1
+203,California,1078,4
+204,California,27944,362
+205,California,568,3
+206,California,490,6
+207,California,11658,317
+208,California,187,14
+209,California,31647,357
+210,California,7544,77
+211,California,516,11
+212,California,736,0
+213,California,263333,6423
+214,California,4424,65
+215,California,6620,114
+216,California,75,2
+217,California,887,18
+218,California,8803,140
+219,California,25,0
+220,California,165,2
+221,California,9645,70
+222,California,1652,13
+223,California,525,6
+224,California,52538,1176
+225,California,0,0
+226,California,3523,43
+227,California,50,0
+228,California,57695,1173
+229,California,21800,393
+230,California,1314,11
+231,California,53121,908
+232,California,45425,767
+233,California,10901,99
+234,California,20060,434
+235,California,3453,27
+236,California,9664,144
+237,California,8952,111
+238,California,20648,300
+239,California,2283,8
+240,California,751,14
+241,California,6,0
+242,California,163,0
+243,California,6232,60
+244,California,7225,120
+245,California,16425,342
+246,California,1686,10
+247,California,529,4
+248,California,15,0
+249,California,15782,257
+250,California,226,4
+251,California,0,0
+252,California,12507,146
+253,California,2773,55
+254,California,1133,7
+255,Colorado,8684,222
+256,Colorado,242,9
+257,Colorado,8999,370
+258,Colorado,55,0
+259,Colorado,17,0
+260,Colorado,11,0
+261,Colorado,3990,79
+262,Colorado,616,33
+263,Colorado,325,19
+264,Colorado,13,0
+265,Colorado,37,1
+266,Colorado,31,0
+267,Colorado,32,1
+268,Colorado,73,1
+269,Colorado,17,0
+270,Colorado,187,3
+271,Colorado,12689,434
+272,Colorado,3,0
+273,Colorado,2458,60
+274,Colorado,1244,10
+275,Colorado,6743,170
+276,Colorado,152,3
+277,Colorado,170,1
+278,Colorado,936,5
+279,Colorado,18,0
+280,Colorado,71,1
+281,Colorado,296,7
+282,Colorado,3,0
+283,Colorado,19,1
+284,Colorado,9,0
+285,Colorado,5500,248
+286,Colorado,0,0
+287,Colorado,79,3
+288,Colorado,255,2
+289,Colorado,91,0
+290,Colorado,2424,50
+291,Colorado,21,0
+292,Colorado,9,0
+293,Colorado,850,5
+294,Colorado,551,7
+295,Colorado,20,0
+296,Colorado,40,1
+297,Colorado,131,5
+298,Colorado,373,13
+299,Colorado,736,48
+300,Colorado,92,6
+301,Colorado,25,1
+302,Colorado,0,0
+303,Colorado,55,1
+304,Colorado,34,0
+305,Colorado,221,2
+306,Colorado,94,0
+307,Colorado,1052,37
+308,Colorado,25,0
+309,Colorado,96,2
+310,Colorado,148,8
+311,Colorado,111,2
+312,Colorado,6,0
+313,Colorado,96,0
+314,Colorado,14,1
+315,Colorado,428,4
+316,Colorado,174,4
+317,Colorado,0,0
+318,Colorado,60,0
+319,Colorado,4597,149
+320,Colorado,101,1
+321,Connecticut,19949,1421
+322,Connecticut,14456,1434
+323,Connecticut,1849,140
+324,Connecticut,1560,193
+325,Connecticut,14294,1114
+326,Connecticut,1803,114
+327,Connecticut,0,0
+328,Connecticut,1328,66
+329,Connecticut,135,0
+330,Connecticut,941,15
+331,Delaware,2898,115
+332,Delaware,9777,310
+333,Delaware,0,0
+334,Delaware,6673,204
+335,Delaware,482,0
+336,Diamond Princess,49,0
+337,District of Columbia,15050,621
+338,District of Columbia,0,0
+339,District of Columbia,0,0
+340,Florida,7735,49
+341,Florida,1426,11
+342,Florida,5924,101
+343,Florida,1054,8
+344,Florida,8578,284
+345,Florida,76146,1343
+346,Florida,608,10
+347,Florida,2978,131
+348,Florida,2684,92
+349,Florida,4895,95
+350,Florida,12565,208
+351,Florida,3690,54
+352,Florida,1551,24
+353,Florida,828,7
+354,Florida,29717,362
+355,Florida,12103,222
+356,Florida,1687,23
+357,Florida,604,3
+358,Florida,2739,45
+359,Florida,505,12
+360,Florida,513,4
+361,Florida,871,14
+362,Florida,840,8
+363,Florida,1313,11
+364,Florida,2051,42
+365,Florida,3064,115
+366,Florida,2111,82
+367,Florida,41178,614
+368,Florida,735,6
+369,Florida,3129,115
+370,Florida,2768,77
+371,Florida,550,8
+372,Florida,1232,12
+373,Florida,7365,173
+374,Florida,20124,462
+375,Florida,10204,63
+376,Florida,1012,9
+377,Florida,497,8
+378,Florida,1009,18
+379,Florida,11327,282
+380,Florida,9541,263
+381,Florida,4807,138
+382,Florida,167880,3127
+383,Florida,1813,22
+384,Florida,2053,41
+385,Florida,4802,107
+386,Florida,1501,24
+387,Florida,39412,438
+388,Florida,12249,140
+389,Florida,0,0
+390,Florida,45743,1308
+391,Florida,8988,205
+392,Florida,21701,736
+393,Florida,19452,514
+394,Florida,2088,38
+395,Florida,5236,74
+396,Florida,7948,251
+397,Florida,8911,207
+398,Florida,5167,69
+399,Florida,7875,271
+400,Florida,2196,65
+401,Florida,2657,66
+402,Florida,1307,12
+403,Florida,1623,0
+404,Florida,903,12
+405,Florida,10651,232
+406,Florida,1106,9
+407,Florida,1915,24
+408,Florida,1064,18
+409,Georgia,1015,26
+410,Georgia,438,3
+411,Georgia,596,13
+412,Georgia,79,4
+413,Georgia,2078,56
+414,Georgia,473,7
+415,Georgia,2124,46
+416,Georgia,2835,84
+417,Georgia,751,21
+418,Georgia,442,12
+419,Georgia,5995,159
+420,Georgia,426,19
+421,Georgia,343,10
+422,Georgia,515,27
+423,Georgia,1126,11
+424,Georgia,2836,27
+425,Georgia,781,10
+426,Georgia,631,42
+427,Georgia,236,8
+428,Georgia,1250,8
+429,Georgia,444,18
+430,Georgia,2682,64
+431,Georgia,1139,18
+432,Georgia,622,6
+433,Georgia,8277,149
+434,Georgia,1628,1
+435,Georgia,739,17
+436,Georgia,5868,91
+437,Georgia,4939,42
+438,Georgia,120,2
+439,Georgia,7086,159
+440,Georgia,370,6
+441,Georgia,19283,422
+442,Georgia,2009,43
+443,Georgia,1877,33
+444,Georgia,3661,59
+445,Georgia,544,13
+446,Georgia,2546,43
+447,Georgia,166,5
+448,Georgia,539,17
+449,Georgia,278,5
+450,Georgia,797,7
+451,Georgia,18302,353
+452,Georgia,1122,29
+453,Georgia,415,12
+454,Georgia,334,14
+455,Georgia,3128,185
+456,Georgia,3485,71
+457,Georgia,477,32
+458,Georgia,239,2
+459,Georgia,1403,23
+460,Georgia,624,3
+461,Georgia,1015,30
+462,Georgia,419,6
+463,Georgia,618,20
+464,Georgia,1763,49
+465,Georgia,3069,44
+466,Georgia,3832,45
+467,Georgia,735,11
+468,Georgia,27247,568
+469,Georgia,801,11
+470,Georgia,38,2
+471,Georgia,3428,94
+472,Georgia,1812,36
+473,Georgia,754,22
+474,Georgia,498,23
+475,Georgia,26931,398
+476,Georgia,1585,67
+477,Georgia,8949,148
+478,Georgia,387,42
+479,Georgia,454,8
+480,Georgia,782,21
+481,Georgia,492,13
+482,Georgia,189,5
+483,Georgia,5073,100
+484,Georgia,3083,80
+485,Georgia,288,4
+486,Georgia,1914,31
+487,Georgia,211,4
+488,Georgia,708,19
+489,Georgia,777,25
+490,Georgia,403,29
+491,Georgia,414,22
+492,Georgia,538,8
+493,Georgia,354,18
+494,Georgia,296,5
+495,Georgia,1609,64
+496,Georgia,690,25
+497,Georgia,1091,22
+498,Georgia,213,7
+499,Georgia,235,3
+500,Georgia,3848,78
+501,Georgia,894,14
+502,Georgia,228,10
+503,Georgia,678,8
+504,Georgia,189,8
+505,Georgia,582,14
+506,Georgia,286,7
+507,Georgia,537,13
+508,Georgia,246,1
+509,Georgia,780,45
+510,Georgia,666,50
+511,Georgia,293,5
+512,Georgia,476,2
+513,Georgia,804,5
+514,Georgia,5920,167
+515,Georgia,2552,85
+516,Georgia,725,26
+517,Georgia,324,11
+518,Georgia,17364,149
+519,Georgia,2739,50
+520,Georgia,662,23
+521,Georgia,611,10
+522,Georgia,595,17
+523,Georgia,316,9
+524,Georgia,1429,17
+525,Georgia,311,22
+526,Georgia,678,23
+527,Georgia,32,1
+528,Georgia,327,9
+529,Georgia,331,28
+530,Georgia,6956,159
+531,Georgia,1828,36
+532,Georgia,104,2
+533,Georgia,400,10
+534,Georgia,347,9
+535,Georgia,1305,59
+536,Georgia,1030,36
+537,Georgia,478,14
+538,Georgia,927,62
+539,Georgia,162,5
+540,Georgia,21,0
+541,Georgia,804,10
+542,Georgia,207,10
+543,Georgia,383,18
+544,Georgia,327,31
+545,Georgia,1468,62
+546,Georgia,1735,56
+547,Georgia,1284,44
+548,Georgia,319,9
+549,Georgia,250,8
+550,Georgia,2776,95
+551,Georgia,294,22
+552,Georgia,186,7
+553,Georgia,2263,6
+554,Georgia,701,18
+555,Georgia,764,61
+556,Georgia,1496,31
+557,Georgia,1758,53
+558,Georgia,1475,56
+559,Georgia,140,5
+560,Georgia,657,8
+561,Georgia,1100,28
+562,Georgia,43,2
+563,Georgia,326,11
+564,Georgia,761,19
+565,Georgia,4491,61
+566,Georgia,247,20
+567,Georgia,261,5
+568,Georgia,333,18
+569,Georgia,523,30
+570,Grand Princess,103,3
+571,Guam,2235,37
+572,Hawaii,672,15
+573,Hawaii,10546,97
+574,Hawaii,0,0
+575,Hawaii,57,0
+576,Hawaii,386,9
+577,Hawaii,28,1
+578,Hawaii,0,0
+579,Idaho,12520,147
+580,Idaho,28,1
+581,Idaho,942,4
+582,Idaho,39,1
+583,Idaho,139,3
+584,Idaho,841,10
+585,Idaho,642,6
+586,Idaho,67,1
+587,Idaho,309,0
+588,Idaho,2558,16
+589,Idaho,56,1
+590,Idaho,27,0
+591,Idaho,24,0
+592,Idaho,8000,100
+593,Idaho,101,0
+594,Idaho,656,5
+595,Idaho,32,0
+596,Idaho,39,0
+597,Idaho,60,1
+598,Idaho,334,3
+599,Idaho,101,0
+600,Idaho,175,3
+601,Idaho,294,2
+602,Idaho,273,1
+603,Idaho,186,0
+604,Idaho,518,1
+605,Idaho,738,7
+606,Idaho,2542,35
+607,Idaho,345,0
+608,Idaho,83,0
+609,Idaho,14,0
+610,Idaho,88,0
+611,Idaho,571,1
+612,Idaho,648,8
+613,Idaho,420,24
+614,Idaho,23,0
+615,Idaho,0,0
+616,Idaho,324,5
+617,Idaho,853,7
+618,Idaho,218,1
+619,Idaho,215,18
+620,Idaho,151,0
+621,Idaho,2109,35
+622,Idaho,3,0
+623,Idaho,88,1
+624,Idaho,349,6
+625,Illinois,1032,10
+626,Illinois,73,1
+627,Illinois,296,4
+628,Illinois,1074,23
+629,Illinois,43,0
+630,Illinois,597,11
+631,Illinois,47,0
+632,Illinois,217,4
+633,Illinois,389,11
+634,Illinois,4472,20
+635,Illinois,460,11
+636,Illinois,154,2
+637,Illinois,142,0
+638,Illinois,1088,20
+639,Illinois,1396,30
+640,Illinois,140623,5180
+641,Illinois,400,2
+642,Illinois,201,4
+643,Illinois,104,1
+644,Illinois,1484,38
+645,Illinois,285,7
+646,Illinois,16955,551
+647,Illinois,111,7
+648,Illinois,64,0
+649,Illinois,836,1
+650,Illinois,373,3
+651,Illinois,99,5
+652,Illinois,505,3
+653,Illinois,153,0
+654,Illinois,69,2
+655,Illinois,216,7
+656,Illinois,645,5
+657,Illinois,67,0
+658,Illinois,199,3
+659,Illinois,37,0
+660,Illinois,64,0
+661,Illinois,636,5
+662,Illinois,359,19
+663,Illinois,1248,24
+664,Illinois,202,9
+665,Illinois,572,38
+666,Illinois,385,14
+667,Illinois,246,2
+668,Illinois,148,0
+669,Illinois,12790,325
+670,Illinois,2676,77
+671,Illinois,1947,25
+672,Illinois,627,3
+673,Illinois,1640,56
+674,Illinois,16545,486
+675,Illinois,251,2
+676,Illinois,347,1
+677,Illinois,348,6
+678,Illinois,440,1
+679,Illinois,1436,42
+680,Illinois,515,7
+681,Illinois,5463,131
+682,Illinois,518,0
+683,Illinois,98,0
+684,Illinois,129,1
+685,Illinois,97,2
+686,Illinois,459,15
+687,Illinois,4463,118
+688,Illinois,3200,20
+689,Illinois,120,0
+690,Illinois,129,5
+691,Illinois,639,15
+692,Illinois,339,13
+693,Illinois,628,23
+694,Illinois,208,3
+695,Illinois,651,6
+696,Illinois,2,0
+697,Illinois,3314,49
+698,Illinois,342,15
+699,Illinois,132,0
+700,Illinois,113,1
+701,Illinois,26,1
+702,Illinois,161,1
+703,Illinois,55,0
+704,Illinois,926,11
+705,Illinois,171,4
+706,Illinois,2869,74
+707,Illinois,299,3
+708,Illinois,2290,44
+709,Illinois,46,0
+710,Illinois,75,0
+711,Illinois,360,4
+712,Illinois,6386,187
+713,Illinois,53,2
+714,Illinois,484,6
+715,Illinois,1657,21
+716,Illinois,2238,236
+717,Illinois,507,24
+718,Illinois,648,4
+719,Illinois,147,1
+720,Illinois,314,2
+721,Illinois,198,1
+722,Illinois,256,5
+723,Illinois,161,0
+724,Illinois,702,20
+725,Illinois,13612,374
+726,Illinois,1351,39
+727,Illinois,5531,149
+728,Illinois,408,6
+729,Indiana,252,3
+730,Indiana,6060,200
+731,Indiana,1153,57
+732,Indiana,88,0
+733,Indiana,113,3
+734,Indiana,956,46
+735,Indiana,103,3
+736,Indiana,271,13
+737,Indiana,1933,9
+738,Indiana,2157,56
+739,Indiana,298,5
+740,Indiana,595,13
+741,Indiana,103,0
+742,Indiana,654,28
+743,Indiana,463,11
+744,Indiana,639,28
+745,Indiana,457,39
+746,Indiana,1895,61
+747,Indiana,959,18
+748,Indiana,6438,109
+749,Indiana,418,13
+750,Indiana,1321,61
+751,Indiana,120,2
+752,Indiana,303,25
+753,Indiana,235,2
+754,Indiana,489,4
+755,Indiana,897,33
+756,Indiana,419,35
+757,Indiana,4761,109
+758,Indiana,914,43
+759,Indiana,564,24
+760,Indiana,2681,122
+761,Indiana,781,25
+762,Indiana,1290,63
+763,Indiana,222,3
+764,Indiana,742,9
+765,Indiana,386,2
+766,Indiana,175,0
+767,Indiana,244,3
+768,Indiana,312,12
+769,Indiana,2279,123
+770,Indiana,503,9
+771,Indiana,1206,17
+772,Indiana,632,11
+773,Indiana,1382,39
+774,Indiana,10334,319
+775,Indiana,506,28
+776,Indiana,1610,75
+777,Indiana,20936,761
+778,Indiana,994,24
+779,Indiana,164,0
+780,Indiana,430,3
+781,Indiana,2512,36
+782,Indiana,505,21
+783,Indiana,706,38
+784,Indiana,172,11
+785,Indiana,894,32
+786,Indiana,77,7
+787,Indiana,286,24
+788,Indiana,0,0
+789,Indiana,167,1
+790,Indiana,96,1
+791,Indiana,215,13
+792,Indiana,141,1
+793,Indiana,2090,46
+794,Indiana,309,0
+795,Indiana,115,1
+796,Indiana,538,10
+797,Indiana,209,7
+798,Indiana,282,8
+799,Indiana,153,4
+800,Indiana,359,10
+801,Indiana,666,29
+802,Indiana,222,3
+803,Indiana,6226,103
+804,Indiana,253,7
+805,Indiana,374,7
+806,Indiana,331,12
+807,Indiana,69,0
+808,Indiana,2312,13
+809,Indiana,220,22
+810,Indiana,0,225
+811,Indiana,77,0
+812,Indiana,3494,30
+813,Indiana,126,0
+814,Indiana,1785,24
+815,Indiana,262,8
+816,Indiana,39,1
+817,Indiana,1223,36
+818,Indiana,261,1
+819,Indiana,747,14
+820,Indiana,250,3
+821,Indiana,482,14
+822,Indiana,255,6
+823,Iowa,68,1
+824,Iowa,33,0
+825,Iowa,252,6
+826,Iowa,129,3
+827,Iowa,74,1
+828,Iowa,302,1
+829,Iowa,4421,88
+830,Iowa,493,8
+831,Iowa,475,7
+832,Iowa,262,1
+833,Iowa,1959,12
+834,Iowa,265,2
+835,Iowa,179,2
+836,Iowa,650,5
+837,Iowa,148,2
+838,Iowa,233,1
+839,Iowa,1017,21
+840,Iowa,222,2
+841,Iowa,240,0
+842,Iowa,262,3
+843,Iowa,309,4
+844,Iowa,237,3
+845,Iowa,1092,20
+846,Iowa,1042,5
+847,Iowa,2741,38
+848,Iowa,122,4
+849,Iowa,66,0
+850,Iowa,365,3
+851,Iowa,751,7
+852,Iowa,503,6
+853,Iowa,2985,41
+854,Iowa,254,10
+855,Iowa,205,2
+856,Iowa,310,3
+857,Iowa,346,18
+858,Iowa,104,0
+859,Iowa,99,0
+860,Iowa,218,3
+861,Iowa,240,6
+862,Iowa,323,3
+863,Iowa,177,2
+864,Iowa,293,1
+865,Iowa,196,2
+866,Iowa,655,4
+867,Iowa,185,6
+868,Iowa,183,3
+869,Iowa,110,0
+870,Iowa,197,1
+871,Iowa,317,3
+872,Iowa,802,32
+873,Iowa,135,1
+874,Iowa,5073,27
+875,Iowa,258,3
+876,Iowa,101,1
+877,Iowa,249,0
+878,Iowa,613,7
+879,Iowa,3878,109
+880,Iowa,426,15
+881,Iowa,153,6
+882,Iowa,280,4
+883,Iowa,209,2
+884,Iowa,368,19
+885,Iowa,746,5
+886,Iowa,1768,34
+887,Iowa,173,1
+888,Iowa,186,0
+889,Iowa,144,1
+890,Iowa,153,10
+891,Iowa,90,5
+892,Iowa,1090,54
+893,Iowa,334,9
+894,Iowa,146,0
+895,Iowa,0,0
+896,Iowa,150,0
+897,Iowa,172,0
+898,Iowa,1091,20
+899,Iowa,156,2
+900,Iowa,15571,261
+901,Iowa,2033,38
+902,Iowa,270,8
+903,Iowa,48,2
+904,Iowa,232,0
+905,Iowa,2875,28
+906,Iowa,250,1
+907,Iowa,1469,3
+908,Iowa,3369,17
+909,Iowa,699,31
+910,Iowa,127,1
+911,Iowa,4,0
+912,Iowa,126,3
+913,Iowa,112,1
+914,Iowa,1296,57
+915,Iowa,945,6
+916,Iowa,449,11
+917,Iowa,84,2
+918,Iowa,1213,14
+919,Iowa,284,13
+920,Iowa,315,6
+921,Iowa,5173,63
+922,Iowa,104,0
+923,Iowa,570,1
+924,Kansas,33,0
+925,Kansas,69,0
+926,Kansas,307,2
+927,Kansas,6,0
+928,Kansas,447,5
+929,Kansas,148,2
+930,Kansas,113,3
+931,Kansas,518,3
+932,Kansas,81,1
+933,Kansas,13,0
+934,Kansas,474,7
+935,Kansas,58,0
+936,Kansas,48,1
+937,Kansas,47,2
+938,Kansas,64,0
+939,Kansas,108,8
+940,Kansas,11,0
+941,Kansas,346,4
+942,Kansas,978,6
+943,Kansas,21,0
+944,Kansas,161,1
+945,Kansas,105,0
+946,Kansas,2138,10
+947,Kansas,47,0
+948,Kansas,1,0
+949,Kansas,926,3
+950,Kansas,32,0
+951,Kansas,2072,12
+952,Kansas,2718,10
+953,Kansas,328,3
+954,Kansas,290,2
+955,Kansas,33,0
+956,Kansas,37,1
+957,Kansas,254,5
+958,Kansas,122,0
+959,Kansas,7,0
+960,Kansas,47,0
+961,Kansas,43,0
+962,Kansas,120,2
+963,Kansas,346,4
+964,Kansas,103,1
+965,Kansas,22,0
+966,Kansas,237,2
+967,Kansas,185,4
+968,Kansas,16,1
+969,Kansas,10411,145
+970,Kansas,82,1
+971,Kansas,78,1
+972,Kansas,24,0
+973,Kansas,233,4
+974,Kansas,13,0
+975,Kansas,1965,11
+976,Kansas,12,0
+977,Kansas,70,0
+978,Kansas,7,0
+979,Kansas,1097,33
+980,Kansas,72,1
+981,Kansas,20,0
+982,Kansas,277,1
+983,Kansas,108,1
+984,Kansas,357,1
+985,Kansas,45,0
+986,Kansas,386,6
+987,Kansas,29,0
+988,Kansas,15,2
+989,Kansas,92,1
+990,Kansas,166,0
+991,Kansas,70,6
+992,Kansas,30,0
+993,Kansas,96,0
+994,Kansas,5,0
+995,Kansas,52,0
+996,Kansas,0,0
+997,Kansas,414,1
+998,Kansas,111,8
+999,Kansas,230,0
+1000,Kansas,69,0
+1001,Kansas,8,0
+1002,Kansas,1018,3
+1003,Kansas,48,1
+1004,Kansas,73,1
+1005,Kansas,1734,8
+1006,Kansas,61,0
+1007,Kansas,42,0
+1008,Kansas,83,0
+1009,Kansas,697,11
+1010,Kansas,107,1
+1011,Kansas,8173,85
+1012,Kansas,1661,5
+1013,Kansas,2644,30
+1014,Kansas,13,0
+1015,Kansas,30,0
+1016,Kansas,6,0
+1017,Kansas,56,1
+1018,Kansas,48,2
+1019,Kansas,128,1
+1020,Kansas,183,3
+1021,Kansas,126,0
+1022,Kansas,53,3
+1023,Kansas,0,0
+1024,Kansas,67,1
+1025,Kansas,17,0
+1026,Kansas,17,0
+1027,Kansas,6,0
+1028,Kansas,59,2
+1029,Kansas,15,0
+1030,Kansas,6757,134
+1031,Kentucky,307,19
+1032,Kentucky,315,9
+1033,Kentucky,150,1
+1034,Kentucky,54,1
+1035,Kentucky,711,13
+1036,Kentucky,87,1
+1037,Kentucky,482,12
+1038,Kentucky,1540,25
+1039,Kentucky,178,1
+1040,Kentucky,412,6
+1041,Kentucky,266,0
+1042,Kentucky,40,0
+1043,Kentucky,84,0
+1044,Kentucky,126,2
+1045,Kentucky,844,9
+1046,Kentucky,337,16
+1047,Kentucky,147,0
+1048,Kentucky,552,8
+1049,Kentucky,851,16
+1050,Kentucky,77,1
+1051,Kentucky,196,5
+1052,Kentucky,165,3
+1053,Kentucky,269,15
+1054,Kentucky,1195,19
+1055,Kentucky,305,8
+1056,Kentucky,305,6
+1057,Kentucky,111,2
+1058,Kentucky,121,1
+1059,Kentucky,100,0
+1060,Kentucky,1320,14
+1061,Kentucky,131,12
+1062,Kentucky,38,0
+1063,Kentucky,142,0
+1064,Kentucky,5729,70
+1065,Kentucky,82,0
+1066,Kentucky,176,2
+1067,Kentucky,606,12
+1068,Kentucky,142,2
+1069,Kentucky,98,8
+1070,Kentucky,152,3
+1071,Kentucky,158,6
+1072,Kentucky,727,29
+1073,Kentucky,382,13
+1074,Kentucky,259,8
+1075,Kentucky,378,4
+1076,Kentucky,79,0
+1077,Kentucky,1254,11
+1078,Kentucky,367,10
+1079,Kentucky,171,0
+1080,Kentucky,169,1
+1081,Kentucky,686,3
+1082,Kentucky,187,2
+1083,Kentucky,75,0
+1084,Kentucky,612,39
+1085,Kentucky,354,17
+1086,Kentucky,14882,300
+1087,Kentucky,581,0
+1088,Kentucky,147,1
+1089,Kentucky,1978,45
+1090,Kentucky,177,1
+1091,Kentucky,465,9
+1092,Kentucky,112,1
+1093,Kentucky,802,6
+1094,Kentucky,55,0
+1095,Kentucky,18,0
+1096,Kentucky,66,0
+1097,Kentucky,125,2
+1098,Kentucky,222,14
+1099,Kentucky,183,13
+1100,Kentucky,84,1
+1101,Kentucky,540,27
+1102,Kentucky,67,4
+1103,Kentucky,1681,6
+1104,Kentucky,80,0
+1105,Kentucky,218,8
+1106,Kentucky,285,3
+1107,Kentucky,75,3
+1108,Kentucky,122,2
+1109,Kentucky,698,9
+1110,Kentucky,144,0
+1111,Kentucky,74,1
+1112,Kentucky,202,3
+1113,Kentucky,44,0
+1114,Kentucky,203,2
+1115,Kentucky,110,2
+1116,Kentucky,204,4
+1117,Kentucky,267,3
+1118,Kentucky,53,0
+1119,Kentucky,755,12
+1120,Kentucky,488,4
+1121,Kentucky,31,1
+1122,Kentucky,444,9
+1123,Kentucky,1088,25
+1124,Kentucky,0,0
+1125,Kentucky,97,2
+1126,Kentucky,37,1
+1127,Kentucky,92,0
+1128,Kentucky,329,8
+1129,Kentucky,395,3
+1130,Kentucky,92,0
+1131,Kentucky,761,10
+1132,Kentucky,12,0
+1133,Kentucky,168,1
+1134,Kentucky,209,1
+1135,Kentucky,244,6
+1136,Kentucky,734,10
+1137,Kentucky,1040,24
+1138,Kentucky,270,8
+1139,Kentucky,198,0
+1140,Kentucky,287,7
+1141,Kentucky,181,8
+1142,Kentucky,170,0
+1143,Kentucky,59,0
+1144,Kentucky,0,0
+1145,Kentucky,306,2
+1146,Kentucky,4224,41
+1147,Kentucky,143,1
+1148,Kentucky,136,0
+1149,Kentucky,157,3
+1150,Kentucky,314,2
+1151,Kentucky,31,0
+1152,Kentucky,258,0
+1153,Louisiana,2933,96
+1154,Louisiana,1545,46
+1155,Louisiana,3704,97
+1156,Louisiana,758,24
+1157,Louisiana,1491,53
+1158,Louisiana,984,37
+1159,Louisiana,473,32
+1160,Louisiana,3181,106
+1161,Louisiana,8360,349
+1162,Louisiana,7794,210
+1163,Louisiana,300,3
+1164,Louisiana,225,2
+1165,Louisiana,432,10
+1166,Louisiana,502,21
+1167,Louisiana,508,13
+1168,Louisiana,893,35
+1169,Louisiana,14983,439
+1170,Louisiana,542,4
+1171,Louisiana,1723,66
+1172,Louisiana,1306,32
+1173,Louisiana,1193,38
+1174,Louisiana,486,30
+1175,Louisiana,2898,89
+1176,Louisiana,1407,58
+1177,Louisiana,632,22
+1178,Louisiana,17386,565
+1179,Louisiana,1225,39
+1180,Louisiana,421,7
+1181,Louisiana,8875,126
+1182,Louisiana,3599,119
+1183,Louisiana,1199,47
+1184,Louisiana,3730,74
+1185,Louisiana,866,8
+1186,Louisiana,770,22
+1187,Louisiana,1103,25
+1188,Louisiana,12436,587
+1189,Louisiana,6122,141
+1190,Louisiana,0,0
+1191,Louisiana,666,19
+1192,Louisiana,1053,40
+1193,Louisiana,4140,148
+1194,Louisiana,351,21
+1195,Louisiana,749,10
+1196,Louisiana,840,13
+1197,Louisiana,1383,29
+1198,Louisiana,1777,59
+1199,Louisiana,410,4
+1200,Louisiana,808,40
+1201,Louisiana,1576,98
+1202,Louisiana,3272,124
+1203,Louisiana,2081,60
+1204,Louisiana,1901,77
+1205,Louisiana,6858,251
+1206,Louisiana,4416,117
+1207,Louisiana,159,2
+1208,Louisiana,3603,112
+1209,Louisiana,193,182
+1210,Louisiana,959,42
+1211,Louisiana,2028,60
+1212,Louisiana,1042,46
+1213,Louisiana,1608,65
+1214,Louisiana,1217,22
+1215,Louisiana,900,41
+1216,Louisiana,343,10
+1217,Louisiana,711,25
+1218,Louisiana,616,18
+1219,Maine,693,10
+1220,Maine,43,1
+1221,Maine,2290,70
+1222,Maine,60,1
+1223,Maine,53,1
+1224,Maine,207,11
+1225,Maine,36,1
+1226,Maine,41,1
+1227,Maine,0,0
+1228,Maine,132,1
+1229,Maine,252,6
+1230,Maine,9,0
+1231,Maine,65,0
+1232,Maine,85,8
+1233,Maine,0,0
+1234,Maine,73,14
+1235,Maine,16,0
+1236,Maine,1115,15
+1237,Maryland,454,22
+1238,Maryland,9759,245
+1239,Maryland,17579,621
+1240,Maryland,15329,483
+1241,Maryland,920,28
+1242,Maryland,638,5
+1243,Maryland,1920,125
+1244,Maryland,1025,33
+1245,Maryland,2725,99
+1246,Maryland,578,10
+1247,Maryland,3958,131
+1248,Maryland,72,1
+1249,Maryland,2945,76
+1250,Maryland,4983,123
+1251,Maryland,298,24
+1252,Maryland,22002,841
+1253,Maryland,0,0
+1254,Maryland,28784,821
+1255,Maryland,645,26
+1256,Maryland,251,4
+1257,Maryland,1259,57
+1258,Maryland,543,6
+1259,Maryland,0,10
+1260,Maryland,1691,37
+1261,Maryland,1919,48
+1262,Maryland,1020,26
+1263,Massachusetts,1722,174
+1264,Massachusetts,706,49
+1265,Massachusetts,9858,690
+1266,Massachusetts,0,0
+1267,Massachusetts,151,1
+1268,Massachusetts,19305,1273
+1269,Massachusetts,404,67
+1270,Massachusetts,8075,773
+1271,Massachusetts,1208,142
+1272,Massachusetts,26943,2133
+1273,Massachusetts,0,0
+1274,Massachusetts,10107,1050
+1275,Massachusetts,0,0
+1276,Massachusetts,9567,764
+1277,Massachusetts,23891,1131
+1278,Massachusetts,2416,5
+1279,Massachusetts,14159,1095
+1280,Michigan,41,2
+1281,Michigan,19,0
+1282,Michigan,743,7
+1283,Michigan,151,14
+1284,Michigan,68,0
+1285,Michigan,69,3
+1286,Michigan,20,0
+1287,Michigan,283,3
+1288,Michigan,985,48
+1289,Michigan,80,2
+1290,Michigan,1832,74
+1291,Michigan,594,5
+1292,Michigan,1265,45
+1293,Michigan,547,16
+1294,Michigan,101,3
+1295,Michigan,90,2
+1296,Michigan,76,0
+1297,Michigan,112,4
+1298,Michigan,658,13
+1299,Michigan,123,5
+1300,Michigan,327,7
+1301,Michigan,114,2
+1302,Michigan,634,10
+1303,Michigan,156,4
+1304,Michigan,195,5
+1305,Michigan,4393,308
+1306,Michigan,91,2
+1307,Michigan,156,1
+1308,Michigan,467,7
+1309,Michigan,262,15
+1310,Michigan,334,27
+1311,Michigan,388,2
+1312,Michigan,219,5
+1313,Michigan,3362,47
+1314,Michigan,350,7
+1315,Michigan,209,12
+1316,Michigan,114,1
+1317,Michigan,683,13
+1318,Michigan,1037,44
+1319,Michigan,2707,92
+1320,Michigan,82,4
+1321,Michigan,9594,174
+1322,Michigan,8,0
+1323,Michigan,32,0
+1324,Michigan,593,36
+1325,Michigan,111,1
+1326,Michigan,787,17
+1327,Michigan,1335,30
+1328,Michigan,12,0
+1329,Michigan,57,0
+1330,Michigan,14229,1015
+1331,Michigan,71,2
+1332,Michigan,341,12
+1333,Michigan,136,0
+1334,Michigan,195,3
+1335,Michigan,339,1
+1336,Michigan,5589,73
+1337,Michigan,585,11
+1338,Michigan,59,1
+1339,Michigan,1486,29
+1340,Michigan,304,5
+1341,Michigan,14,0
+1342,Michigan,1475,70
+1343,Michigan,339,1
+1344,Michigan,20235,1196
+1345,Michigan,514,6
+1346,Michigan,65,5
+1347,Michigan,42,0
+1348,Michigan,93,0
+1349,Michigan,30,1
+1350,Michigan,172,11
+1351,Michigan,3296,66
+1352,Michigan,206,3
+1353,Michigan,26,1
+1354,Michigan,93,4
+1355,Michigan,2894,139
+1356,Michigan,147,7
+1357,Michigan,24,0
+1358,Michigan,499,31
+1359,Michigan,980,55
+1360,Michigan,735,11
+1361,Michigan,497,31
+1362,Michigan,18,0
+1363,Michigan,744,17
+1364,Michigan,3419,115
+1365,Michigan,34582,2968
+1366,Michigan,120,4
+1367,Minnesota,74,1
+1368,Minnesota,5870,132
+1369,Minnesota,257,2
+1370,Minnesota,388,5
+1371,Minnesota,522,3
+1372,Minnesota,73,0
+1373,Minnesota,1632,6
+1374,Minnesota,182,2
+1375,Minnesota,246,1
+1376,Minnesota,1375,7
+1377,Minnesota,142,3
+1378,Minnesota,203,1
+1379,Minnesota,466,1
+1380,Minnesota,1316,40
+1381,Minnesota,26,0
+1382,Minnesota,6,0
+1383,Minnesota,219,0
+1384,Minnesota,464,18
+1385,Minnesota,7280,125
+1386,Minnesota,214,0
+1387,Minnesota,278,2
+1388,Minnesota,132,0
+1389,Minnesota,111,0
+1390,Minnesota,529,3
+1391,Minnesota,344,9
+1392,Minnesota,59,4
+1393,Minnesota,26264,926
+1394,Minnesota,117,0
+1395,Minnesota,88,1
+1396,Minnesota,271,0
+1397,Minnesota,299,14
+1398,Minnesota,137,1
+1399,Minnesota,116,8
+1400,Minnesota,955,2
+1401,Minnesota,12,0
+1402,Minnesota,117,3
+1403,Minnesota,47,1
+1404,Minnesota,57,0
+1405,Minnesota,21,1
+1406,Minnesota,446,4
+1407,Minnesota,105,0
+1408,Minnesota,661,4
+1409,Minnesota,46,1
+1410,Minnesota,50,1
+1411,Minnesota,357,10
+1412,Minnesota,470,2
+1413,Minnesota,189,2
+1414,Minnesota,153,3
+1415,Minnesota,216,1
+1416,Minnesota,1308,5
+1417,Minnesota,156,2
+1418,Minnesota,515,16
+1419,Minnesota,1943,16
+1420,Minnesota,52,0
+1421,Minnesota,2346,27
+1422,Minnesota,407,4
+1423,Minnesota,0,0
+1424,Minnesota,115,1
+1425,Minnesota,307,0
+1426,Minnesota,216,10
+1427,Minnesota,294,4
+1428,Minnesota,90,0
+1429,Minnesota,10635,318
+1430,Minnesota,40,1
+1431,Minnesota,151,1
+1432,Minnesota,136,7
+1433,Minnesota,1311,8
+1434,Minnesota,162,0
+1435,Minnesota,117,0
+1436,Minnesota,2487,33
+1437,Minnesota,1114,14
+1438,Minnesota,189,3
+1439,Minnesota,1451,38
+1440,Minnesota,3865,24
+1441,Minnesota,530,2
+1442,Minnesota,94,1
+1443,Minnesota,123,1
+1444,Minnesota,483,2
+1445,Minnesota,29,0
+1446,Minnesota,218,52
+1447,Minnesota,180,0
+1448,Minnesota,67,0
+1449,Minnesota,566,8
+1450,Minnesota,3652,55
+1451,Minnesota,514,4
+1452,Minnesota,58,3
+1453,Minnesota,855,18
+1454,Minnesota,1553,7
+1455,Minnesota,169,2
+1456,Mississippi,926,37
+1457,Mississippi,786,11
+1458,Mississippi,321,10
+1459,Mississippi,653,25
+1460,Mississippi,223,2
+1461,Mississippi,1813,66
+1462,Mississippi,508,12
+1463,Mississippi,314,12
+1464,Mississippi,667,24
+1465,Mississippi,181,6
+1466,Mississippi,459,16
+1467,Mississippi,570,45
+1468,Mississippi,585,18
+1469,Mississippi,1144,28
+1470,Mississippi,1166,33
+1471,Mississippi,813,22
+1472,Mississippi,5477,59
+1473,Mississippi,2425,71
+1474,Mississippi,192,3
+1475,Mississippi,759,13
+1476,Mississippi,359,17
+1477,Mississippi,1072,36
+1478,Mississippi,572,21
+1479,Mississippi,3805,73
+1480,Mississippi,7032,159
+1481,Mississippi,1095,58
+1482,Mississippi,375,15
+1483,Mississippi,104,3
+1484,Mississippi,787,21
+1485,Mississippi,3430,69
+1486,Mississippi,562,15
+1487,Mississippi,244,9
+1488,Mississippi,335,11
+1489,Mississippi,2452,79
+1490,Mississippi,288,15
+1491,Mississippi,2137,39
+1492,Mississippi,1655,34
+1493,Mississippi,2038,125
+1494,Mississippi,429,12
+1495,Mississippi,946,38
+1496,Mississippi,2654,68
+1497,Mississippi,1383,81
+1498,Mississippi,1075,53
+1499,Mississippi,1449,58
+1500,Mississippi,3233,86
+1501,Mississippi,845,35
+1502,Mississippi,1085,16
+1503,Mississippi,1207,68
+1504,Mississippi,458,20
+1505,Mississippi,1556,104
+1506,Mississippi,767,23
+1507,Mississippi,546,16
+1508,Mississippi,1763,50
+1509,Mississippi,0,0
+1510,Mississippi,1455,27
+1511,Mississippi,870,53
+1512,Mississippi,416,18
+1513,Mississippi,1224,50
+1514,Mississippi,1249,16
+1515,Mississippi,834,17
+1516,Mississippi,373,5
+1517,Mississippi,3225,77
+1518,Mississippi,1171,26
+1519,Mississippi,265,13
+1520,Mississippi,1018,44
+1521,Mississippi,529,14
+1522,Mississippi,365,12
+1523,Mississippi,1439,46
+1524,Mississippi,764,21
+1525,Mississippi,962,37
+1526,Mississippi,654,17
+1527,Mississippi,667,38
+1528,Mississippi,482,13
+1529,Mississippi,0,0
+1530,Mississippi,988,24
+1531,Mississippi,595,25
+1532,Mississippi,1384,50
+1533,Mississippi,2197,72
+1534,Mississippi,888,21
+1535,Mississippi,333,13
+1536,Mississippi,302,18
+1537,Mississippi,735,19
+1538,Mississippi,423,14
+1539,Mississippi,1046,30
+1540,Missouri,326,0
+1541,Missouri,238,2
+1542,Missouri,50,0
+1543,Missouri,413,2
+1544,Missouri,460,6
+1545,Missouri,178,0
+1546,Missouri,101,2
+1547,Missouri,275,3
+1548,Missouri,322,1
+1549,Missouri,4504,8
+1550,Missouri,1834,15
+1551,Missouri,610,6
+1552,Missouri,79,1
+1553,Missouri,602,2
+1554,Missouri,884,10
+1555,Missouri,1588,12
+1556,Missouri,137,1
+1557,Missouri,87,1
+1558,Missouri,1434,23
+1559,Missouri,95,0
+1560,Missouri,44,0
+1561,Missouri,1314,5
+1562,Missouri,61,0
+1563,Missouri,1760,41
+1564,Missouri,210,0
+1565,Missouri,1434,11
+1566,Missouri,404,2
+1567,Missouri,369,4
+1568,Missouri,54,0
+1569,Missouri,182,1
+1570,Missouri,98,1
+1571,Missouri,126,2
+1572,Missouri,132,1
+1573,Missouri,174,3
+1574,Missouri,764,7
+1575,Missouri,1610,28
+1576,Missouri,158,18
+1577,Missouri,121,9
+1578,Missouri,5701,24
+1579,Missouri,181,3
+1580,Missouri,103,1
+1581,Missouri,178,4
+1582,Missouri,88,2
+1583,Missouri,75,1
+1584,Missouri,167,2
+1585,Missouri,556,3
+1586,Missouri,57,0
+1587,Missouri,7064,92
+1588,Missouri,3634,48
+1589,Missouri,4021,57
+1590,Missouri,1046,4
+1591,Missouri,10823,122
+1592,Missouri,49,1
+1593,Missouri,584,4
+1594,Missouri,486,2
+1595,Missouri,571,2
+1596,Missouri,81,2
+1597,Missouri,733,3
+1598,Missouri,67,1
+1599,Missouri,391,1
+1600,Missouri,149,0
+1601,Missouri,285,0
+1602,Missouri,74,0
+1603,Missouri,643,14
+1604,Missouri,1052,11
+1605,Missouri,28,0
+1606,Missouri,463,1
+1607,Missouri,291,3
+1608,Missouri,289,4
+1609,Missouri,86,0
+1610,Missouri,82,1
+1611,Missouri,315,1
+1612,Missouri,511,16
+1613,Missouri,1407,14
+1614,Missouri,729,9
+1615,Missouri,102,0
+1616,Missouri,136,2
+1617,Missouri,0,0
+1618,Missouri,117,0
+1619,Missouri,497,9
+1620,Missouri,610,4
+1621,Missouri,1065,10
+1622,Missouri,440,7
+1623,Missouri,233,3
+1624,Missouri,656,10
+1625,Missouri,503,3
+1626,Missouri,612,5
+1627,Missouri,33,1
+1628,Missouri,145,0
+1629,Missouri,227,3
+1630,Missouri,159,0
+1631,Missouri,38,0
+1632,Missouri,153,1
+1633,Missouri,693,9
+1634,Missouri,22,0
+1635,Missouri,31,1
+1636,Missouri,837,16
+1637,Missouri,89,1
+1638,Missouri,61,1
+1639,Missouri,7399,115
+1640,Missouri,57,0
+1641,Missouri,1959,9
+1642,Missouri,23297,788
+1643,Missouri,6934,195
+1644,Missouri,187,1
+1645,Missouri,478,12
+1646,Missouri,418,4
+1647,Missouri,185,0
+1648,Missouri,1157,31
+1649,Missouri,298,2
+1650,Missouri,0,0
+1651,Missouri,167,1
+1652,Missouri,460,0
+1653,Missouri,367,10
+1654,Missouri,200,0
+1655,Missouri,593,3
+1656,Missouri,20,0
+1657,Missouri,278,0
+1658,Montana,78,1
+1659,Montana,866,22
+1660,Montana,21,0
+1661,Montana,17,0
+1662,Montana,115,0
+1663,Montana,0,0
+1664,Montana,624,5
+1665,Montana,26,0
+1666,Montana,110,2
+1667,Montana,5,0
+1668,Montana,76,1
+1669,Montana,114,0
+1670,Montana,5,0
+1671,Montana,60,1
+1672,Montana,923,16
+1673,Montana,1247,4
+1674,Montana,16,0
+1675,Montana,208,1
+1676,Montana,3,0
+1677,Montana,22,0
+1678,Montana,143,3
+1679,Montana,67,0
+1680,Montana,6,0
+1681,Montana,260,1
+1682,Montana,235,3
+1683,Montana,16,0
+1684,Montana,106,3
+1685,Montana,97,1
+1686,Montana,19,0
+1687,Montana,25,2
+1688,Montana,2,0
+1689,Montana,584,3
+1690,Montana,35,1
+1691,Montana,0,0
+1692,Montana,92,0
+1693,Montana,0,0
+1694,Montana,119,0
+1695,Montana,23,0
+1696,Montana,5,0
+1697,Montana,10,0
+1698,Montana,1,0
+1699,Montana,129,2
+1700,Montana,77,2
+1701,Montana,213,1
+1702,Montana,614,18
+1703,Montana,45,1
+1704,Montana,13,0
+1705,Montana,241,0
+1706,Montana,56,2
+1707,Montana,40,1
+1708,Montana,21,0
+1709,Montana,71,6
+1710,Montana,3,0
+1711,Montana,0,0
+1712,Montana,61,0
+1713,Montana,11,0
+1714,Montana,9,0
+1715,Montana,2927,62
+1716,Nebraska,520,12
+1717,Nebraska,65,1
+1718,Nebraska,1,0
+1719,Nebraska,2,0
+1720,Nebraska,0,0
+1721,Nebraska,73,0
+1722,Nebraska,70,1
+1723,Nebraska,19,0
+1724,Nebraska,26,0
+1725,Nebraska,1014,4
+1726,Nebraska,76,0
+1727,Nebraska,111,1
+1728,Nebraska,319,2
+1729,Nebraska,80,0
+1730,Nebraska,23,0
+1731,Nebraska,46,4
+1732,Nebraska,36,0
+1733,Nebraska,71,0
+1734,Nebraska,767,5
+1735,Nebraska,124,0
+1736,Nebraska,83,4
+1737,Nebraska,2176,43
+1738,Nebraska,119,0
+1739,Nebraska,1071,12
+1740,Nebraska,4,0
+1741,Nebraska,85,2
+1742,Nebraska,1123,11
+1743,Nebraska,15495,190
+1744,Nebraska,11,1
+1745,Nebraska,54,1
+1746,Nebraska,24,0
+1747,Nebraska,7,0
+1748,Nebraska,38,1
+1749,Nebraska,212,5
+1750,Nebraska,9,0
+1751,Nebraska,8,0
+1752,Nebraska,34,0
+1753,Nebraska,1,0
+1754,Nebraska,25,0
+1755,Nebraska,1979,47
+1756,Nebraska,126,12
+1757,Nebraska,19,0
+1758,Nebraska,0,0
+1759,Nebraska,4,0
+1760,Nebraska,63,1
+1761,Nebraska,7,0
+1762,Nebraska,94,5
+1763,Nebraska,28,0
+1764,Nebraska,42,0
+1765,Nebraska,139,0
+1766,Nebraska,62,0
+1767,Nebraska,4,0
+1768,Nebraska,15,0
+1769,Nebraska,152,0
+1770,Nebraska,5906,24
+1771,Nebraska,362,2
+1772,Nebraska,6,0
+1773,Nebraska,3,0
+1774,Nebraska,800,5
+1775,Nebraska,6,0
+1776,Nebraska,81,1
+1777,Nebraska,76,0
+1778,Nebraska,39,0
+1779,Nebraska,119,0
+1780,Nebraska,15,0
+1781,Nebraska,144,1
+1782,Nebraska,0,0
+1783,Nebraska,17,0
+1784,Nebraska,34,10
+1785,Nebraska,106,0
+1786,Nebraska,101,8
+1787,Nebraska,1043,3
+1788,Nebraska,54,1
+1789,Nebraska,30,0
+1790,Nebraska,53,1
+1791,Nebraska,40,1
+1792,Nebraska,709,2
+1793,Nebraska,3489,15
+1794,Nebraska,436,3
+1795,Nebraska,407,8
+1796,Nebraska,216,3
+1797,Nebraska,48,0
+1798,Nebraska,23,1
+1799,Nebraska,7,0
+1800,Nebraska,39,0
+1801,Nebraska,29,0
+1802,Nebraska,5,0
+1803,Nebraska,247,4
+1804,Nebraska,246,0
+1805,Nebraska,30,0
+1806,Nebraska,253,2
+1807,Nebraska,126,0
+1808,Nebraska,17,0
+1809,Nebraska,1,0
+1810,Nebraska,159,2
+1811,Nevada,529,8
+1812,Nevada,139,3
+1813,Nevada,64895,1353
+1814,Nevada,296,1
+1815,Nevada,925,9
+1816,Nevada,0,0
+1817,Nevada,10,0
+1818,Nevada,121,4
+1819,Nevada,70,1
+1820,Nevada,7,0
+1821,Nevada,420,7
+1822,Nevada,13,0
+1823,Nevada,498,15
+1824,Nevada,0,0
+1825,Nevada,21,0
+1826,Nevada,9,0
+1827,Nevada,0,0
+1828,Nevada,8797,154
+1829,Nevada,57,1
+1830,New Hampshire,146,4
+1831,New Hampshire,122,2
+1832,New Hampshire,143,3
+1833,New Hampshire,22,0
+1834,New Hampshire,137,1
+1835,New Hampshire,4310,288
+1836,New Hampshire,565,23
+1837,New Hampshire,0,0
+1838,New Hampshire,1992,103
+1839,New Hampshire,515,13
+1840,New Hampshire,52,1
+1841,New Hampshire,3,0
+1842,New Jersey,3990,256
+1843,New Jersey,22276,2044
+1844,New Jersey,7006,494
+1845,New Jersey,9765,606
+1846,New Jersey,1008,95
+1847,New Jersey,3757,157
+1848,New Jersey,20898,2127
+1849,New Jersey,4389,226
+1850,New Jersey,20547,1513
+1851,New Jersey,1296,125
+1852,New Jersey,8596,635
+1853,New Jersey,19210,1425
+1854,New Jersey,11605,865
+1855,New Jersey,7795,831
+1856,New Jersey,12436,1044
+1857,New Jersey,0,0
+1858,New Jersey,18877,1252
+1859,New Jersey,1052,90
+1860,New Jersey,5725,572
+1861,New Jersey,1461,198
+1862,New Jersey,346,0
+1863,New Jersey,17517,1356
+1864,New Jersey,1436,171
+1865,New Mexico,6270,173
+1866,New Mexico,9,1
+1867,New Mexico,1066,11
+1868,New Mexico,413,20
+1869,New Mexico,29,1
+1870,New Mexico,759,5
+1871,New Mexico,1,0
+1872,New Mexico,3198,54
+1873,New Mexico,735,7
+1874,New Mexico,112,2
+1875,New Mexico,34,1
+1876,New Mexico,2,0
+1877,New Mexico,99,2
+1878,New Mexico,1349,22
+1879,New Mexico,196,3
+1880,New Mexico,32,0
+1881,New Mexico,411,6
+1882,New Mexico,4304,256
+1883,New Mexico,7,0
+1884,New Mexico,251,13
+1885,New Mexico,0,0
+1886,New Mexico,74,2
+1887,New Mexico,386,13
+1888,New Mexico,275,3
+1889,New Mexico,3280,197
+1890,New Mexico,103,0
+1891,New Mexico,1320,41
+1892,New Mexico,961,6
+1893,New Mexico,44,1
+1894,New Mexico,97,6
+1895,New Mexico,133,4
+1896,New Mexico,66,1
+1897,New Mexico,1373,0
+1898,New Mexico,31,2
+1899,New Mexico,567,4
+1900,New York,3043,134
+1901,New York,99,1
+1902,New York,52710,4943
+1903,New York,1480,69
+1904,New York,258,6
+1905,New York,204,2
+1906,New York,551,9
+1907,New York,361,3
+1908,New York,248,7
+1909,New York,156,5
+1910,New York,585,37
+1911,New York,164,0
+1912,New York,132,4
+1913,New York,5089,153
+1914,New York,11112,689
+1915,New York,161,0
+1916,New York,65,0
+1917,New York,332,24
+1918,New York,317,5
+1919,New York,321,18
+1920,New York,15,0
+1921,New York,327,10
+1922,New York,164,0
+1923,New York,67510,7319
+1924,New York,50,0
+1925,New York,202,8
+1926,New York,489,17
+1927,New York,5940,289
+1928,New York,230,4
+1929,New York,46388,2201
+1930,New York,33187,3173
+1931,New York,1741,101
+1932,New York,2387,123
+1933,New York,4270,205
+1934,New York,466,35
+1935,New York,11851,498
+1936,New York,325,54
+1937,New York,468,3
+1938,New York,333,5
+1939,New York,0,0
+1940,New York,1587,63
+1941,New York,71881,7244
+1942,New York,902,42
+1943,New York,15799,1085
+1944,New York,14954,675
+1945,New York,1014,17
+1946,New York,1388,48
+1947,New York,83,0
+1948,New York,40,0
+1949,New York,105,3
+1950,New York,320,4
+1951,New York,366,42
+1952,New York,46208,2011
+1953,New York,1576,48
+1954,New York,225,25
+1955,New York,405,0
+1956,New York,2244,95
+1957,New York,0,16
+1958,New York,366,33
+1959,New York,289,14
+1960,New York,312,5
+1961,New York,37903,1454
+1962,New York,132,5
+1963,New York,62,7
+1964,North Carolina,3793,54
+1965,North Carolina,495,6
+1966,North Carolina,220,0
+1967,North Carolina,558,4
+1968,North Carolina,252,1
+1969,North Carolina,330,0
+1970,North Carolina,869,17
+1971,North Carolina,555,8
+1972,North Carolina,831,14
+1973,North Carolina,1555,26
+1974,North Carolina,2923,80
+1975,North Carolina,2033,36
+1976,North Carolina,3836,63
+1977,North Carolina,1581,18
+1978,North Carolina,111,3
+1979,North Carolina,621,5
+1980,North Carolina,325,3
+1981,North Carolina,3014,52
+1982,North Carolina,1618,57
+1983,North Carolina,587,10
+1984,North Carolina,320,3
+1985,North Carolina,113,2
+1986,North Carolina,2095,60
+1987,North Carolina,1328,54
+1988,North Carolina,1307,33
+1989,North Carolina,5238,75
+1990,North Carolina,177,1
+1991,North Carolina,265,3
+1992,North Carolina,2651,34
+1993,North Carolina,537,6
+1994,North Carolina,2152,53
+1995,North Carolina,7589,92
+1996,North Carolina,1289,44
+1997,North Carolina,6886,96
+1998,North Carolina,1199,31
+1999,North Carolina,4923,77
+2000,North Carolina,134,3
+2001,North Carolina,128,2
+2002,North Carolina,1704,49
+2003,North Carolina,507,5
+2004,North Carolina,8244,179
+2005,North Carolina,980,18
+2006,North Carolina,2104,52
+2007,North Carolina,587,31
+2008,North Carolina,1927,64
+2009,North Carolina,718,27
+2010,North Carolina,1088,17
+2011,North Carolina,124,5
+2012,North Carolina,2708,27
+2013,North Carolina,538,7
+2014,North Carolina,4270,55
+2015,North Carolina,148,11
+2016,North Carolina,1588,13
+2017,North Carolina,946,29
+2018,North Carolina,1513,14
+2019,North Carolina,585,2
+2020,North Carolina,91,1
+2021,North Carolina,428,10
+2022,North Carolina,886,26
+2023,North Carolina,27768,343
+2024,North Carolina,104,3
+2025,North Carolina,1029,26
+2026,North Carolina,1540,27
+2027,North Carolina,2233,39
+2028,North Carolina,3949,29
+2029,North Carolina,412,17
+2030,North Carolina,1899,23
+2031,North Carolina,2603,55
+2032,North Carolina,0,0
+2033,North Carolina,235,2
+2034,North Carolina,688,30
+2035,North Carolina,909,5
+2036,North Carolina,179,3
+2037,North Carolina,417,6
+2038,North Carolina,4640,27
+2039,North Carolina,260,8
+2040,North Carolina,2696,51
+2041,North Carolina,940,15
+2042,North Carolina,4273,72
+2043,North Carolina,1170,14
+2044,North Carolina,3224,88
+2045,North Carolina,1135,31
+2046,North Carolina,1769,24
+2047,North Carolina,984,12
+2048,North Carolina,1840,56
+2049,North Carolina,414,3
+2050,North Carolina,1279,21
+2051,North Carolina,139,3
+2052,North Carolina,319,7
+2053,North Carolina,113,2
+2054,North Carolina,0,0
+2055,North Carolina,4629,58
+2056,North Carolina,1026,44
+2057,North Carolina,17070,235
+2058,North Carolina,325,7
+2059,North Carolina,201,8
+2060,North Carolina,613,1
+2061,North Carolina,3217,66
+2062,North Carolina,1175,33
+2063,North Carolina,2128,47
+2064,North Carolina,716,7
+2065,North Carolina,118,0
+2066,North Dakota,19,0
+2067,North Dakota,215,0
+2068,North Dakota,325,5
+2069,North Dakota,15,0
+2070,North Dakota,52,1
+2071,North Dakota,34,0
+2072,North Dakota,31,1
+2073,North Dakota,3280,38
+2074,North Dakota,4849,77
+2075,North Dakota,53,0
+2076,North Dakota,52,0
+2077,North Dakota,6,0
+2078,North Dakota,96,1
+2079,North Dakota,68,3
+2080,North Dakota,133,1
+2081,North Dakota,59,0
+2082,North Dakota,41,0
+2083,North Dakota,2119,13
+2084,North Dakota,15,0
+2085,North Dakota,56,1
+2086,North Dakota,55,0
+2087,North Dakota,43,0
+2088,North Dakota,47,0
+2089,North Dakota,40,0
+2090,North Dakota,58,1
+2091,North Dakota,61,3
+2092,North Dakota,201,2
+2093,North Dakota,257,2
+2094,North Dakota,125,0
+2095,North Dakota,1155,20
+2096,North Dakota,233,2
+2097,North Dakota,44,0
+2098,North Dakota,20,0
+2099,North Dakota,0,0
+2100,North Dakota,63,0
+2101,North Dakota,31,0
+2102,North Dakota,192,2
+2103,North Dakota,75,0
+2104,North Dakota,46,0
+2105,North Dakota,217,1
+2106,North Dakota,168,4
+2107,North Dakota,58,0
+2108,North Dakota,9,0
+2109,North Dakota,144,3
+2110,North Dakota,7,0
+2111,North Dakota,1391,7
+2112,North Dakota,28,0
+2113,North Dakota,499,3
+2114,North Dakota,16,0
+2115,North Dakota,107,0
+2116,North Dakota,0,0
+2117,North Dakota,174,1
+2118,North Dakota,961,4
+2119,North Dakota,33,0
+2120,North Dakota,905,7
+2121,Northern Mariana Islands,69,2
+2122,Ohio,126,4
+2123,Ohio,1393,69
+2124,Ohio,231,4
+2125,Ohio,653,48
+2126,Ohio,636,2
+2127,Ohio,576,9
+2128,Ohio,714,27
+2129,Ohio,283,2
+2130,Ohio,5771,106
+2131,Ohio,151,7
+2132,Ohio,300,3
+2133,Ohio,1764,39
+2134,Ohio,1665,21
+2135,Ohio,284,13
+2136,Ohio,1923,80
+2137,Ohio,232,11
+2138,Ohio,228,6
+2139,Ohio,17262,654
+2140,Ohio,780,41
+2141,Ohio,286,10
+2142,Ohio,2188,20
+2143,Ohio,926,45
+2144,Ohio,2058,52
+2145,Ohio,227,6
+2146,Ohio,26393,606
+2147,Ohio,239,1
+2148,Ohio,188,12
+2149,Ohio,709,48
+2150,Ohio,1397,32
+2151,Ohio,160,8
+2152,Ohio,12913,312
+2153,Ohio,676,10
+2154,Ohio,252,13
+2155,Ohio,62,2
+2156,Ohio,307,13
+2157,Ohio,222,3
+2158,Ohio,161,9
+2159,Ohio,378,7
+2160,Ohio,538,7
+2161,Ohio,241,4
+2162,Ohio,333,4
+2163,Ohio,282,15
+2164,Ohio,1596,50
+2165,Ohio,627,22
+2166,Ohio,1883,62
+2167,Ohio,305,3
+2168,Ohio,2293,86
+2169,Ohio,7205,361
+2170,Ohio,792,12
+2171,Ohio,3014,280
+2172,Ohio,3075,47
+2173,Ohio,1442,39
+2174,Ohio,174,10
+2175,Ohio,1085,17
+2176,Ohio,1394,51
+2177,Ohio,110,18
+2178,Ohio,7623,157
+2179,Ohio,47,0
+2180,Ohio,255,2
+2181,Ohio,386,2
+2182,Ohio,27,0
+2183,Ohio,466,30
+2184,Ohio,0,0
+2185,Ohio,106,0
+2186,Ohio,292,9
+2187,Ohio,2641,44
+2188,Ohio,174,0
+2189,Ohio,1110,66
+2190,Ohio,425,15
+2191,Ohio,568,23
+2192,Ohio,815,19
+2193,Ohio,865,23
+2194,Ohio,558,20
+2195,Ohio,482,6
+2196,Ohio,464,14
+2197,Ohio,597,10
+2198,Ohio,2790,170
+2199,Ohio,5202,250
+2200,Ohio,1861,131
+2201,Ohio,920,20
+2202,Ohio,0,0
+2203,Ohio,509,2
+2204,Ohio,114,3
+2205,Ohio,45,3
+2206,Ohio,2978,48
+2207,Ohio,255,23
+2208,Ohio,913,67
+2209,Ohio,205,3
+2210,Ohio,1752,72
+2211,Ohio,205,12
+2212,Oklahoma,599,10
+2213,Oklahoma,62,0
+2214,Oklahoma,289,1
+2215,Oklahoma,50,0
+2216,Oklahoma,349,1
+2217,Oklahoma,117,1
+2218,Oklahoma,890,4
+2219,Oklahoma,727,20
+2220,Oklahoma,2087,17
+2221,Oklahoma,528,8
+2222,Oklahoma,1042,8
+2223,Oklahoma,304,2
+2224,Oklahoma,24,0
+2225,Oklahoma,5782,68
+2226,Oklahoma,71,0
+2227,Oklahoma,1531,12
+2228,Oklahoma,67,3
+2229,Oklahoma,494,1
+2230,Oklahoma,1095,33
+2231,Oklahoma,583,0
+2232,Oklahoma,705,24
+2233,Oklahoma,63,1
+2234,Oklahoma,10,0
+2235,Oklahoma,1552,18
+2236,Oklahoma,349,4
+2237,Oklahoma,972,11
+2238,Oklahoma,41,0
+2239,Oklahoma,106,8
+2240,Oklahoma,43,0
+2241,Oklahoma,27,1
+2242,Oklahoma,270,4
+2243,Oklahoma,289,4
+2244,Oklahoma,729,10
+2245,Oklahoma,42,0
+2246,Oklahoma,153,4
+2247,Oklahoma,544,13
+2248,Oklahoma,330,2
+2249,Oklahoma,71,2
+2250,Oklahoma,133,2
+2251,Oklahoma,1046,17
+2252,Oklahoma,408,10
+2253,Oklahoma,433,1
+2254,Oklahoma,169,1
+2255,Oklahoma,78,1
+2256,Oklahoma,178,1
+2257,Oklahoma,565,11
+2258,Oklahoma,809,7
+2259,Oklahoma,1247,34
+2260,Oklahoma,298,5
+2261,Oklahoma,127,1
+2262,Oklahoma,1731,21
+2263,Oklahoma,142,2
+2264,Oklahoma,135,3
+2265,Oklahoma,133,4
+2266,Oklahoma,17135,186
+2267,Oklahoma,795,5
+2268,Oklahoma,804,13
+2269,Oklahoma,819,4
+2270,Oklahoma,0,0
+2271,Oklahoma,247,3
+2272,Oklahoma,2101,6
+2273,Oklahoma,901,19
+2274,Oklahoma,370,3
+2275,Oklahoma,1256,10
+2276,Oklahoma,149,1
+2277,Oklahoma,42,1
+2278,Oklahoma,1757,49
+2279,Oklahoma,423,6
+2280,Oklahoma,826,11
+2281,Oklahoma,393,5
+2282,Oklahoma,1455,8
+2283,Oklahoma,87,2
+2284,Oklahoma,16363,155
+2285,Oklahoma,54,0
+2286,Oklahoma,1430,26
+2287,Oklahoma,967,40
+2288,Oklahoma,68,0
+2289,Oklahoma,99,0
+2290,Oklahoma,1001,1
+2291,Oregon,91,2
+2292,Oregon,288,6
+2293,Oregon,2314,61
+2294,Oregon,127,0
+2295,Oregon,155,1
+2296,Oregon,147,0
+2297,Oregon,61,1
+2298,Oregon,31,0
+2299,Oregon,789,12
+2300,Oregon,221,3
+2301,Oregon,8,0
+2302,Oregon,8,0
+2303,Oregon,12,0
+2304,Oregon,248,0
+2305,Oregon,1091,4
+2306,Oregon,516,8
+2307,Oregon,194,2
+2308,Oregon,277,2
+2309,Oregon,28,0
+2310,Oregon,1059,16
+2311,Oregon,475,13
+2312,Oregon,480,13
+2313,Oregon,1575,25
+2314,Oregon,4522,92
+2315,Oregon,490,6
+2316,Oregon,6938,136
+2317,Oregon,0,0
+2318,Oregon,511,15
+2319,Oregon,18,0
+2320,Oregon,51,0
+2321,Oregon,2928,41
+2322,Oregon,0,0
+2323,Oregon,435,2
+2324,Oregon,28,1
+2325,Oregon,273,3
+2326,Oregon,4369,59
+2327,Oregon,0,0
+2328,Oregon,745,14
+2329,Pennsylvania,810,25
+2330,Pennsylvania,11867,354
+2331,Pennsylvania,424,18
+2332,Pennsylvania,1845,120
+2333,Pennsylvania,235,6
+2334,Pennsylvania,6939,393
+2335,Pennsylvania,609,16
+2336,Pennsylvania,132,3
+2337,Pennsylvania,8626,607
+2338,Pennsylvania,1024,23
+2339,Pennsylvania,553,7
+2340,Pennsylvania,8,0
+2341,Pennsylvania,455,28
+2342,Pennsylvania,2078,11
+2343,Pennsylvania,6701,367
+2344,Pennsylvania,116,3
+2345,Pennsylvania,313,2
+2346,Pennsylvania,200,6
+2347,Pennsylvania,873,35
+2348,Pennsylvania,298,3
+2349,Pennsylvania,1783,76
+2350,Pennsylvania,3735,179
+2351,Pennsylvania,11233,753
+2352,Pennsylvania,69,2
+2353,Pennsylvania,1504,38
+2354,Pennsylvania,778,7
+2355,Pennsylvania,15,0
+2356,Pennsylvania,1747,50
+2357,Pennsylvania,45,2
+2358,Pennsylvania,181,1
+2359,Pennsylvania,399,6
+2360,Pennsylvania,668,12
+2361,Pennsylvania,109,3
+2362,Pennsylvania,183,7
+2363,Pennsylvania,2417,216
+2364,Pennsylvania,7700,458
+2365,Pennsylvania,505,23
+2366,Pennsylvania,1971,59
+2367,Pennsylvania,5530,352
+2368,Pennsylvania,4050,189
+2369,Pennsylvania,641,25
+2370,Pennsylvania,57,2
+2371,Pennsylvania,705,16
+2372,Pennsylvania,218,2
+2373,Pennsylvania,1780,132
+2374,Pennsylvania,12028,878
+2375,Pennsylvania,164,5
+2376,Pennsylvania,4421,305
+2377,Pennsylvania,919,50
+2378,Pennsylvania,0,0
+2379,Pennsylvania,212,6
+2380,Pennsylvania,36004,1789
+2381,Pennsylvania,571,22
+2382,Pennsylvania,26,0
+2383,Pennsylvania,1076,52
+2384,Pennsylvania,283,4
+2385,Pennsylvania,211,3
+2386,Pennsylvania,11,0
+2387,Pennsylvania,293,28
+2388,Pennsylvania,65,3
+2389,Pennsylvania,0,0
+2390,Pennsylvania,453,6
+2391,Pennsylvania,83,1
+2392,Pennsylvania,42,1
+2393,Pennsylvania,1310,29
+2394,Pennsylvania,222,10
+2395,Pennsylvania,2135,52
+2396,Pennsylvania,72,8
+2397,Pennsylvania,4606,149
+2398,Puerto Rico,143,0
+2399,Puerto Rico,314,0
+2400,Puerto Rico,412,0
+2401,Puerto Rico,254,0
+2402,Puerto Rico,147,0
+2403,Puerto Rico,219,0
+2404,Puerto Rico,756,0
+2405,Puerto Rico,160,0
+2406,Puerto Rico,218,0
+2407,Puerto Rico,414,0
+2408,Puerto Rico,3444,0
+2409,Puerto Rico,321,0
+2410,Puerto Rico,1440,0
+2411,Puerto Rico,249,0
+2412,Puerto Rico,635,0
+2413,Puerto Rico,2415,0
+2414,Puerto Rico,407,0
+2415,Puerto Rico,331,0
+2416,Puerto Rico,112,0
+2417,Puerto Rico,220,0
+2418,Puerto Rico,296,0
+2419,Puerto Rico,265,0
+2420,Puerto Rico,236,0
+2421,Puerto Rico,566,0
+2422,Puerto Rico,22,0
+2423,Puerto Rico,723,0
+2424,Puerto Rico,473,0
+2425,Puerto Rico,251,0
+2426,Puerto Rico,97,0
+2427,Puerto Rico,279,0
+2428,Puerto Rico,164,0
+2429,Puerto Rico,1555,0
+2430,Puerto Rico,481,0
+2431,Puerto Rico,268,0
+2432,Puerto Rico,162,0
+2433,Puerto Rico,455,0
+2434,Puerto Rico,252,0
+2435,Puerto Rico,225,0
+2436,Puerto Rico,327,0
+2437,Puerto Rico,343,0
+2438,Puerto Rico,143,0
+2439,Puerto Rico,306,0
+2440,Puerto Rico,103,0
+2441,Puerto Rico,440,0
+2442,Puerto Rico,252,0
+2443,Puerto Rico,230,0
+2444,Puerto Rico,502,0
+2445,Puerto Rico,79,0
+2446,Puerto Rico,107,0
+2447,Puerto Rico,773,0
+2448,Puerto Rico,325,0
+2449,Puerto Rico,498,0
+2450,Puerto Rico,190,0
+2451,Puerto Rico,572,0
+2452,Puerto Rico,317,0
+2453,Puerto Rico,790,0
+2454,Puerto Rico,167,0
+2455,Puerto Rico,114,0
+2456,Puerto Rico,827,0
+2457,Puerto Rico,161,0
+2458,Puerto Rico,166,0
+2459,Puerto Rico,544,0
+2460,Puerto Rico,192,0
+2461,Puerto Rico,395,0
+2462,Puerto Rico,239,0
+2463,Puerto Rico,6758,0
+2464,Puerto Rico,438,0
+2465,Puerto Rico,344,0
+2466,Puerto Rico,165,0
+2467,Puerto Rico,1187,0
+2468,Puerto Rico,1228,0
+2469,Puerto Rico,969,0
+2470,Puerto Rico,525,617
+2471,Puerto Rico,129,0
+2472,Puerto Rico,683,0
+2473,Puerto Rico,895,0
+2474,Puerto Rico,86,0
+2475,Puerto Rico,128,0
+2476,Puerto Rico,267,0
+2477,Puerto Rico,375,0
+2478,Rhode Island,404,0
+2479,Rhode Island,1867,0
+2480,Rhode Island,518,0
+2481,Rhode Island,0,0
+2482,Rhode Island,18437,0
+2483,Rhode Island,2148,1102
+2484,Rhode Island,803,0
+2485,South Carolina,548,12
+2486,South Carolina,4025,79
+2487,South Carolina,371,6
+2488,South Carolina,4215,170
+2489,South Carolina,629,33
+2490,South Carolina,674,16
+2491,South Carolina,5508,81
+2492,South Carolina,5390,88
+2493,South Carolina,446,17
+2494,South Carolina,15613,259
+2495,South Carolina,1119,35
+2496,South Carolina,1019,21
+2497,South Carolina,1203,36
+2498,South Carolina,1081,66
+2499,South Carolina,1006,42
+2500,South Carolina,1994,52
+2501,South Carolina,993,36
+2502,South Carolina,4065,88
+2503,South Carolina,797,17
+2504,South Carolina,755,34
+2505,South Carolina,4851,187
+2506,South Carolina,1869,45
+2507,South Carolina,13957,298
+2508,South Carolina,2170,72
+2509,South Carolina,629,25
+2510,South Carolina,10176,196
+2511,South Carolina,782,20
+2512,South Carolina,1892,37
+2513,South Carolina,2086,48
+2514,South Carolina,1626,56
+2515,South Carolina,701,34
+2516,South Carolina,6948,157
+2517,South Carolina,853,23
+2518,South Carolina,899,11
+2519,South Carolina,228,6
+2520,South Carolina,1202,23
+2521,South Carolina,1363,26
+2522,South Carolina,3056,123
+2523,South Carolina,0,0
+2524,South Carolina,2800,45
+2525,South Carolina,14691,230
+2526,South Carolina,684,20
+2527,South Carolina,6565,192
+2528,South Carolina,3150,77
+2529,South Carolina,0,0
+2530,South Carolina,551,12
+2531,South Carolina,1319,43
+2532,South Carolina,5187,68
+2533,South Dakota,45,0
+2534,South Dakota,723,9
+2535,South Dakota,62,1
+2536,South Dakota,79,1
+2537,South Dakota,704,2
+2538,South Dakota,1067,3
+2539,South Dakota,104,0
+2540,South Dakota,123,3
+2541,South Dakota,82,1
+2542,South Dakota,16,0
+2543,South Dakota,156,0
+2544,South Dakota,34,0
+2545,South Dakota,540,5
+2546,South Dakota,757,3
+2547,South Dakota,89,1
+2548,South Dakota,179,2
+2549,South Dakota,230,2
+2550,South Dakota,65,0
+2551,South Dakota,79,0
+2552,South Dakota,125,0
+2553,South Dakota,72,0
+2554,South Dakota,90,0
+2555,South Dakota,88,3
+2556,South Dakota,65,1
+2557,South Dakota,98,1
+2558,South Dakota,110,1
+2559,South Dakota,19,0
+2560,South Dakota,80,0
+2561,South Dakota,32,0
+2562,South Dakota,32,0
+2563,South Dakota,5,0
+2564,South Dakota,349,4
+2565,South Dakota,78,2
+2566,South Dakota,18,0
+2567,South Dakota,29,1
+2568,South Dakota,76,1
+2569,South Dakota,7,0
+2570,South Dakota,47,0
+2571,South Dakota,175,7
+2572,South Dakota,362,4
+2573,South Dakota,1251,2
+2574,South Dakota,120,3
+2575,South Dakota,38,0
+2576,South Dakota,88,1
+2577,South Dakota,29,0
+2578,South Dakota,487,4
+2579,South Dakota,30,0
+2580,South Dakota,19,0
+2581,South Dakota,6383,78
+2582,South Dakota,78,0
+2583,South Dakota,235,3
+2584,South Dakota,0,0
+2585,South Dakota,2091,35
+2586,South Dakota,36,0
+2587,South Dakota,40,0
+2588,South Dakota,167,1
+2589,South Dakota,23,0
+2590,South Dakota,115,0
+2591,South Dakota,34,0
+2592,South Dakota,9,0
+2593,South Dakota,112,5
+2594,South Dakota,114,0
+2595,South Dakota,143,2
+2596,South Dakota,0,0
+2597,South Dakota,367,6
+2598,South Dakota,102,0
+2599,South Dakota,372,4
+2600,South Dakota,60,0
+2601,Tennessee,1153,11
+2602,Tennessee,1317,17
+2603,Tennessee,334,9
+2604,Tennessee,848,4
+2605,Tennessee,2461,23
+2606,Tennessee,2883,17
+2607,Tennessee,424,3
+2608,Tennessee,281,0
+2609,Tennessee,849,18
+2610,Tennessee,1141,28
+2611,Tennessee,805,10
+2612,Tennessee,605,10
+2613,Tennessee,438,4
+2614,Tennessee,215,5
+2615,Tennessee,737,9
+2616,Tennessee,1156,12
+2617,Tennessee,529,19
+2618,Tennessee,1169,18
+2619,Tennessee,26194,297
+2620,Tennessee,550,13
+2621,Tennessee,495,6
+2622,Tennessee,1230,14
+2623,Tennessee,1314,13
+2624,Tennessee,1167,18
+2625,Tennessee,462,3
+2626,Tennessee,945,8
+2627,Tennessee,1586,20
+2628,Tennessee,576,17
+2629,Tennessee,360,3
+2630,Tennessee,1118,39
+2631,Tennessee,263,5
+2632,Tennessee,1873,25
+2633,Tennessee,9263,92
+2634,Tennessee,107,3
+2635,Tennessee,1546,25
+2636,Tennessee,991,15
+2637,Tennessee,780,16
+2638,Tennessee,933,16
+2639,Tennessee,1151,21
+2640,Tennessee,612,9
+2641,Tennessee,553,5
+2642,Tennessee,198,1
+2643,Tennessee,243,3
+2644,Tennessee,314,5
+2645,Tennessee,1085,14
+2646,Tennessee,662,2
+2647,Tennessee,9115,75
+2648,Tennessee,919,2
+2649,Tennessee,949,15
+2650,Tennessee,1003,11
+2651,Tennessee,179,1
+2652,Tennessee,596,1
+2653,Tennessee,1131,6
+2654,Tennessee,1033,20
+2655,Tennessee,2780,60
+2656,Tennessee,516,7
+2657,Tennessee,733,5
+2658,Tennessee,2289,23
+2659,Tennessee,1094,24
+2660,Tennessee,824,18
+2661,Tennessee,221,3
+2662,Tennessee,1010,17
+2663,Tennessee,3015,43
+2664,Tennessee,161,1
+2665,Tennessee,310,3
+2666,Tennessee,1112,9
+2667,Tennessee,2968,25
+2668,Tennessee,708,5
+2669,Tennessee,149,0
+2670,Tennessee,107,2
+2671,Tennessee,380,10
+2672,Tennessee,3170,38
+2673,Tennessee,791,11
+2674,Tennessee,864,3
+2675,Tennessee,2188,35
+2676,Tennessee,9113,88
+2677,Tennessee,208,2
+2678,Tennessee,226,2
+2679,Tennessee,2553,15
+2680,Tennessee,30397,449
+2681,Tennessee,697,10
+2682,Tennessee,182,2
+2683,Tennessee,2093,32
+2684,Tennessee,4750,93
+2685,Tennessee,1766,17
+2686,Tennessee,1651,7
+2687,Tennessee,2904,6
+2688,Tennessee,281,1
+2689,Tennessee,345,1
+2690,Tennessee,159,0
+2691,Tennessee,1019,7
+2692,Tennessee,2232,34
+2693,Tennessee,1489,6
+2694,Tennessee,1145,19
+2695,Tennessee,806,9
+2696,Tennessee,5139,36
+2697,Tennessee,3412,43
+2698,Texas,2822,31
+2699,Texas,415,8
+2700,Texas,2120,80
+2701,Texas,320,18
+2702,Texas,79,1
+2703,Texas,13,1
+2704,Texas,1154,30
+2705,Texas,485,9
+2706,Texas,214,5
+2707,Texas,158,8
+2708,Texas,1811,29
+2709,Texas,17,0
+2710,Texas,1818,30
+2711,Texas,5371,84
+2712,Texas,53794,1264
+2713,Texas,144,5
+2714,Texas,1,0
+2715,Texas,311,6
+2716,Texas,1331,50
+2717,Texas,11144,161
+2718,Texas,6178,62
+2719,Texas,215,2
+2720,Texas,12,1
+2721,Texas,303,22
+2722,Texas,563,23
+2723,Texas,337,6
+2724,Texas,721,12
+2725,Texas,1511,35
+2726,Texas,818,7
+2727,Texas,86,3
+2728,Texas,22544,886
+2729,Texas,350,11
+2730,Texas,19,0
+2731,Texas,338,15
+2732,Texas,250,5
+2733,Texas,1285,8
+2734,Texas,1534,28
+2735,Texas,68,0
+2736,Texas,84,1
+2737,Texas,50,1
+2738,Texas,52,3
+2739,Texas,70,3
+2740,Texas,13210,141
+2741,Texas,18,0
+2742,Texas,480,4
+2743,Texas,2642,102
+2744,Texas,299,3
+2745,Texas,129,2
+2746,Texas,415,5
+2747,Texas,1810,12
+2748,Texas,25,2
+2749,Texas,71,2
+2750,Texas,164,6
+2751,Texas,86,3
+2752,Texas,54,2
+2753,Texas,244,9
+2754,Texas,78723,1106
+2755,Texas,380,9
+2756,Texas,982,33
+2757,Texas,860,21
+2758,Texas,24,0
+2759,Texas,11770,151
+2760,Texas,48,2
+2761,Texas,254,7
+2762,Texas,61,1
+2763,Texas,434,14
+2764,Texas,168,3
+2765,Texas,4727,96
+2766,Texas,67,1
+2767,Texas,22821,510
+2768,Texas,4298,67
+2769,Texas,837,12
+2770,Texas,234,5
+2771,Texas,667,14
+2772,Texas,592,18
+2773,Texas,66,3
+2774,Texas,106,9
+2775,Texas,9,0
+2776,Texas,16049,282
+2777,Texas,132,6
+2778,Texas,404,2
+2779,Texas,973,9
+2780,Texas,328,8
+2781,Texas,11497,153
+2782,Texas,103,4
+2783,Texas,310,10
+2784,Texas,8,0
+2785,Texas,154,6
+2786,Texas,1057,17
+2787,Texas,289,5
+2788,Texas,1829,37
+2789,Texas,2191,61
+2790,Texas,1079,31
+2791,Texas,3566,76
+2792,Texas,1815,53
+2793,Texas,28,1
+2794,Texas,119,4
+2795,Texas,112,4
+2796,Texas,25,0
+2797,Texas,1325,29
+2798,Texas,139017,2535
+2799,Texas,878,31
+2800,Texas,125,0
+2801,Texas,62,2
+2802,Texas,5818,60
+2803,Texas,73,0
+2804,Texas,946,23
+2805,Texas,31162,1588
+2806,Texas,641,13
+2807,Texas,338,8
+2808,Texas,920,26
+2809,Texas,337,8
+2810,Texas,372,10
+2811,Texas,677,12
+2812,Texas,45,3
+2813,Texas,1595,36
+2814,Texas,196,4
+2815,Texas,10,0
+2816,Texas,131,2
+2817,Texas,606,15
+2818,Texas,470,25
+2819,Texas,14,0
+2820,Texas,7293,132
+2821,Texas,105,3
+2822,Texas,1450,35
+2823,Texas,2905,49
+2824,Texas,577,0
+2825,Texas,936,16
+2826,Texas,3088,47
+2827,Texas,331,7
+2828,Texas,7,2
+2829,Texas,9,0
+2830,Texas,590,10
+2831,Texas,16,1
+2832,Texas,0,0
+2833,Texas,44,1
+2834,Texas,997,41
+2835,Texas,67,8
+2836,Texas,362,11
+2837,Texas,1097,31
+2838,Texas,328,21
+2839,Texas,243,8
+2840,Texas,973,35
+2841,Texas,219,14
+2842,Texas,235,6
+2843,Texas,2260,49
+2844,Texas,562,11
+2845,Texas,32,0
+2846,Texas,368,8
+2847,Texas,122,2
+2848,Texas,0,0
+2849,Texas,10681,119
+2850,Texas,93,5
+2851,Texas,717,6
+2852,Texas,150,14
+2853,Texas,77,6
+2854,Texas,76,2
+2855,Texas,1041,44
+2856,Texas,3652,114
+2857,Texas,148,3
+2858,Texas,7626,100
+2859,Texas,23,0
+2860,Texas,1192,45
+2861,Texas,26,0
+2862,Texas,3636,82
+2863,Texas,488,5
+2864,Texas,59,0
+2865,Texas,86,1
+2866,Texas,171,3
+2867,Texas,10747,157
+2868,Texas,1158,20
+2869,Texas,183,3
+2870,Texas,7,0
+2871,Texas,1533,61
+2872,Texas,1249,26
+2873,Texas,178,10
+2874,Texas,222,5
+2875,Texas,20270,407
+2876,Texas,133,5
+2877,Texas,16,1
+2878,Texas,1921,41
+2879,Texas,0,0
+2880,Texas,538,15
+2881,Texas,376,25
+2882,Texas,1909,31
+2883,Texas,417,7
+2884,Texas,364,5
+2885,Texas,838,22
+2886,Texas,4707,62
+2887,Texas,96,6
+2888,Texas,67,3
+2889,Texas,2722,38
+2890,Texas,87,6
+2891,Texas,118,7
+2892,Texas,160,14
+2893,Texas,190,6
+2894,Texas,303,14
+2895,Texas,9,0
+2896,Texas,301,4
+2897,Texas,1576,25
+2898,Texas,263,5
+2899,Texas,900,10
+2900,Texas,77,8
+2901,Texas,199,15
+2902,Texas,225,9
+2903,Texas,1459,72
+2904,Texas,53,0
+2905,Texas,53,2
+2906,Texas,646,3
+2907,Texas,24,0
+2908,Texas,474,27
+2909,Texas,61,0
+2910,Texas,3702,97
+2911,Texas,140,5
+2912,Texas,3387,159
+2913,Texas,132,4
+2914,Texas,4,0
+2915,Texas,14,1
+2916,Texas,81,3
+2917,Texas,104,3
+2918,Texas,47917,698
+2919,Texas,1452,52
+2920,Texas,3,0
+2921,Texas,237,4
+2922,Texas,8,2
+2923,Texas,1557,28
+2924,Texas,3615,64
+2925,Texas,28745,417
+2926,Texas,194,7
+2927,Texas,214,4
+2928,Texas,0,0
+2929,Texas,383,10
+2930,Texas,23,2
+2931,Texas,764,31
+2932,Texas,2135,100
+2933,Texas,582,19
+2934,Texas,4020,95
+2935,Texas,3690,56
+2936,Texas,832,13
+2937,Texas,120,1
+2938,Texas,633,48
+2939,Texas,13369,288
+2940,Texas,1350,50
+2941,Texas,46,0
+2942,Texas,1652,22
+2943,Texas,137,2
+2944,Texas,1206,48
+2945,Texas,8515,142
+2946,Texas,888,26
+2947,Texas,113,2
+2948,Texas,761,13
+2949,Texas,513,21
+2950,Texas,203,5
+2951,Texas,294,6
+2952,Texas,333,6
+2953,Texas,347,16
+2954,Utah,3197,11
+2955,Utah,0,0
+2956,Utah,0,0
+2957,Utah,0,0
+2958,Utah,0,0
+2959,Utah,616,3
+2960,Utah,0,0
+2961,Utah,4817,28
+2962,Utah,0,0
+2963,Utah,0,0
+2964,Utah,0,0
+2965,Utah,0,0
+2966,Utah,0,0
+2967,Utah,0,0
+2968,Utah,0,0
+2969,Utah,0,0
+2970,Utah,0,0
+2971,Utah,0,0
+2972,Utah,0,0
+2973,Utah,0,0
+2974,Utah,28996,248
+2975,Utah,693,29
+2976,Utah,0,0
+2977,Utah,0,0
+2978,Utah,186,1
+2979,Utah,4067,30
+2980,Utah,961,1
+2981,Utah,838,0
+2982,Utah,230,2
+2983,Utah,0,0
+2984,Utah,0,0
+2985,Utah,16486,54
+2986,Utah,724,7
+2987,Utah,0,0
+2988,Utah,0,0
+2989,Utah,0,0
+2990,Utah,4110,30
+2991,Vermont,83,2
+2992,Vermont,109,1
+2993,Vermont,34,0
+2994,Vermont,831,39
+2995,Vermont,6,0
+2996,Vermont,123,7
+2997,Vermont,14,0
+2998,Vermont,57,1
+2999,Vermont,24,0
+3000,Vermont,21,0
+3001,Vermont,0,0
+3002,Vermont,128,1
+3003,Vermont,8,0
+3004,Vermont,77,2
+3005,Vermont,123,3
+3006,Vermont,84,2
+3007,Virgin Islands,1290,19
+3008,Virginia,1169,19
+3009,Virginia,1203,21
+3010,Virginia,3741,68
+3011,Virginia,77,4
+3012,Virginia,124,5
+3013,Virginia,381,4
+3014,Virginia,208,3
+3015,Virginia,3877,148
+3016,Virginia,470,7
+3017,Virginia,6,0
+3018,Virginia,718,12
+3019,Virginia,65,4
+3020,Virginia,292,10
+3021,Virginia,178,3
+3022,Virginia,347,4
+3023,Virginia,135,2
+3024,Virginia,677,9
+3025,Virginia,80,1
+3026,Virginia,422,4
+3027,Virginia,343,5
+3028,Virginia,488,23
+3029,Virginia,83,5
+3030,Virginia,103,0
+3031,Virginia,1105,28
+3032,Virginia,4241,70
+3033,Virginia,5851,94
+3034,Virginia,93,0
+3035,Virginia,250,25
+3036,Virginia,30,0
+3037,Virginia,29,0
+3038,Virginia,1184,16
+3039,Virginia,104,2
+3040,Virginia,843,26
+3041,Virginia,93,1
+3042,Virginia,373,11
+3043,Virginia,250,26
+3044,Virginia,173,2
+3045,Virginia,20437,583
+3046,Virginia,134,7
+3047,Virginia,69,6
+3048,Virginia,917,25
+3049,Virginia,197,8
+3050,Virginia,372,9
+3051,Virginia,194,1
+3052,Virginia,397,9
+3053,Virginia,860,13
+3054,Virginia,531,5
+3055,Virginia,413,30
+3056,Virginia,85,0
+3057,Virginia,230,2
+3058,Virginia,260,7
+3059,Virginia,307,10
+3060,Virginia,212,3
+3061,Virginia,774,11
+3062,Virginia,332,6
+3063,Virginia,1793,24
+3064,Virginia,1248,36
+3065,Virginia,2541,34
+3066,Virginia,5331,211
+3067,Virginia,1025,20
+3068,Virginia,6,0
+3069,Virginia,387,7
+3070,Virginia,709,18
+3071,Virginia,838,20
+3072,Virginia,227,4
+3073,Virginia,154,2
+3074,Virginia,71,1
+3075,Virginia,140,0
+3076,Virginia,262,7
+3077,Virginia,59,1
+3078,Virginia,6720,123
+3079,Virginia,281,6
+3080,Virginia,113,3
+3081,Virginia,1336,12
+3082,Virginia,103,3
+3083,Virginia,1904,25
+3084,Virginia,607,7
+3085,Virginia,378,15
+3086,Virginia,41,0
+3087,Virginia,671,33
+3088,Virginia,112,10
+3089,Virginia,1783,4
+3090,Virginia,99,2
+3091,Virginia,183,2
+3092,Virginia,2700,37
+3093,Virginia,4765,75
+3094,Virginia,305,31
+3095,Virginia,147,6
+3096,Virginia,33,0
+3097,Virginia,254,17
+3098,Virginia,317,4
+3099,Virginia,0,0
+3100,Virginia,389,29
+3101,Virginia,271,24
+3102,Virginia,726,29
+3103,Virginia,969,9
+3104,Virginia,75,2
+3105,Virginia,2534,58
+3106,Virginia,219,5
+3107,Virginia,568,12
+3108,Virginia,774,5
+3109,Virginia,12215,201
+3110,Virginia,220,5
+3111,Virginia,725,1
+3112,Virginia,64,2
+3113,Virginia,341,4
+3114,Virginia,4551,60
+3115,Virginia,806,7
+3116,Virginia,1621,23
+3117,Virginia,106,2
+3118,Virginia,1390,21
+3119,Virginia,242,5
+3120,Virginia,263,4
+3121,Virginia,181,4
+3122,Virginia,801,58
+3123,Virginia,449,8
+3124,Virginia,744,22
+3125,Virginia,2106,43
+3126,Virginia,1971,17
+3127,Virginia,246,0
+3128,Virginia,1916,72
+3129,Virginia,114,3
+3130,Virginia,419,10
+3131,Virginia,278,2
+3132,Virginia,0,0
+3133,Virginia,6689,83
+3134,Virginia,415,6
+3135,Virginia,544,17
+3136,Virginia,257,3
+3137,Virginia,266,3
+3138,Virginia,177,7
+3139,Virginia,490,4
+3140,Virginia,393,8
+3141,Virginia,227,4
+3142,Virginia,537,8
+3143,Washington,818,10
+3144,Washington,89,2
+3145,Washington,4475,130
+3146,Washington,1836,15
+3147,Washington,225,1
+3148,Washington,2649,62
+3149,Washington,14,1
+3150,Washington,635,6
+3151,Washington,1182,9
+3152,Washington,29,0
+3153,Washington,4218,65
+3154,Washington,11,0
+3155,Washington,2853,20
+3156,Washington,460,6
+3157,Washington,301,11
+3158,Washington,71,0
+3159,Washington,21650,759
+3160,Washington,1152,13
+3161,Washington,512,22
+3162,Washington,191,3
+3163,Washington,483,4
+3164,Washington,41,1
+3165,Washington,378,5
+3166,Washington,1035,10
+3167,Washington,0,0
+3168,Washington,80,3
+3169,Washington,59,0
+3170,Washington,7697,200
+3171,Washington,29,0
+3172,Washington,1088,22
+3173,Washington,64,1
+3174,Washington,6762,211
+3175,Washington,6447,162
+3176,Washington,161,2
+3177,Washington,1038,17
+3178,Washington,292,4
+3179,Washington,6,0
+3180,Washington,869,5
+3181,Washington,1302,42
+3182,Washington,1184,0
+3183,Washington,11316,257
+3184,West Virginia,48,1
+3185,West Virginia,952,13
+3186,West Virginia,203,1
+3187,West Virginia,13,0
+3188,West Virginia,112,1
+3189,West Virginia,741,10
+3190,West Virginia,25,0
+3191,West Virginia,36,2
+3192,West Virginia,18,0
+3193,West Virginia,580,11
+3194,West Virginia,33,0
+3195,West Virginia,152,7
+3196,West Virginia,124,3
+3197,West Virginia,103,1
+3198,West Virginia,144,0
+3199,West Virginia,82,1
+3200,West Virginia,344,8
+3201,West Virginia,252,23
+3202,West Virginia,425,4
+3203,West Virginia,2415,72
+3204,West Virginia,38,2
+3205,West Virginia,157,2
+3206,West Virginia,588,39
+3207,West Virginia,259,3
+3208,West Virginia,163,1
+3209,West Virginia,138,5
+3210,West Virginia,86,1
+3211,West Virginia,404,27
+3212,West Virginia,171,4
+3213,West Virginia,367,9
+3214,West Virginia,1948,5
+3215,West Virginia,148,7
+3216,West Virginia,53,0
+3217,West Virginia,96,3
+3218,West Virginia,359,6
+3219,West Virginia,0,0
+3220,West Virginia,52,1
+3221,West Virginia,17,2
+3222,West Virginia,59,0
+3223,West Virginia,150,4
+3224,West Virginia,522,5
+3225,West Virginia,487,8
+3226,West Virginia,237,2
+3227,West Virginia,11,0
+3228,West Virginia,49,2
+3229,West Virginia,46,0
+3230,West Virginia,120,6
+3231,West Virginia,17,0
+3232,West Virginia,15,0
+3233,West Virginia,0,0
+3234,West Virginia,63,0
+3235,West Virginia,367,11
+3236,West Virginia,7,0
+3237,West Virginia,50,0
+3238,West Virginia,12,0
+3239,West Virginia,354,6
+3240,West Virginia,103,3
+3241,Wisconsin,214,4
+3242,Wisconsin,74,2
+3243,Wisconsin,425,4
+3244,Wisconsin,89,1
+3245,Wisconsin,8032,61
+3246,Wisconsin,128,2
+3247,Wisconsin,155,3
+3248,Wisconsin,942,2
+3249,Wisconsin,489,0
+3250,Wisconsin,347,8
+3251,Wisconsin,549,2
+3252,Wisconsin,147,0
+3253,Wisconsin,9040,41
+3254,Wisconsin,1677,14
+3255,Wisconsin,264,3
+3256,Wisconsin,397,0
+3257,Wisconsin,426,0
+3258,Wisconsin,1703,6
+3259,Wisconsin,73,1
+3260,Wisconsin,1840,13
+3261,Wisconsin,231,4
+3262,Wisconsin,873,19
+3263,Wisconsin,458,2
+3264,Wisconsin,215,0
+3265,Wisconsin,169,0
+3266,Wisconsin,137,1
+3267,Wisconsin,115,1
+3268,Wisconsin,1278,8
+3269,Wisconsin,337,2
+3270,Wisconsin,3334,65
+3271,Wisconsin,428,2
+3272,Wisconsin,2785,2
+3273,Wisconsin,239,0
+3274,Wisconsin,142,2
+3275,Wisconsin,169,1
+3276,Wisconsin,918,3
+3277,Wisconsin,1151,14
+3278,Wisconsin,783,7
+3279,Wisconsin,207,1
+3280,Wisconsin,58,0
+3281,Wisconsin,27356,525
+3282,Wisconsin,423,2
+3283,Wisconsin,729,4
+3284,Wisconsin,366,2
+3285,Wisconsin,0,0
+3286,Wisconsin,3793,28
+3287,Wisconsin,1259,19
+3288,Wisconsin,56,0
+3289,Wisconsin,414,6
+3290,Wisconsin,228,2
+3291,Wisconsin,1270,4
+3292,Wisconsin,57,0
+3293,Wisconsin,4585,94
+3294,Wisconsin,95,4
+3295,Wisconsin,2327,32
+3296,Wisconsin,52,1
+3297,Wisconsin,832,3
+3298,Wisconsin,196,1
+3299,Wisconsin,643,1
+3300,Wisconsin,1501,15
+3301,Wisconsin,859,8
+3302,Wisconsin,157,3
+3303,Wisconsin,580,2
+3304,Wisconsin,0,0
+3305,Wisconsin,186,0
+3306,Wisconsin,177,1
+3307,Wisconsin,2503,34
+3308,Wisconsin,95,1
+3309,Wisconsin,2380,32
+3310,Wisconsin,6838,86
+3311,Wisconsin,942,19
+3312,Wisconsin,289,2
+3313,Wisconsin,2988,23
+3314,Wisconsin,718,4
+3315,Wyoming,426,0
+3316,Wyoming,52,2
+3317,Wyoming,270,1
+3318,Wyoming,221,2
+3319,Wyoming,110,0
+3320,Wyoming,38,0
+3321,Wyoming,686,14
+3322,Wyoming,81,2
+3323,Wyoming,37,0
+3324,Wyoming,30,1
+3325,Wyoming,661,4
+3326,Wyoming,160,1
+3327,Wyoming,485,4
+3328,Wyoming,3,0
+3329,Wyoming,0,0
+3330,Wyoming,214,2
+3331,Wyoming,23,1
+3332,Wyoming,262,4
+3333,Wyoming,87,1
+3334,Wyoming,326,2
+3335,Wyoming,517,1
+3336,Wyoming,342,2
+3337,Wyoming,0,0
+3338,Wyoming,113,6
+3339,Wyoming,25,0

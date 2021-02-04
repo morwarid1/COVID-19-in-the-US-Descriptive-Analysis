@@ -1,0 +1,1167 @@
+,State,Sex,Age group,COVID-19 Deaths,Age
+0,Alabama,Male,Under 1 year,0.0,0.5
+1,Alabama,Male,1-4 years,0.0,2.5
+2,Alabama,Male,5-14 years,0.0,10
+3,Alabama,Male,15-24 years,,20
+4,Alabama,Male,25-34 years,,30
+5,Alabama,Male,35-44 years,21.0,40
+6,Alabama,Male,45-54 years,68.0,50
+7,Alabama,Male,55-64 years,140.0,60
+8,Alabama,Male,65-74 years,244.0,70
+9,Alabama,Male,75-84 years,265.0,80
+10,Alabama,Male,85 years and over,185.0,90
+11,Alabama,Female,Under 1 year,0.0,0.5
+12,Alabama,Female,1-4 years,0.0,2.5
+13,Alabama,Female,5-14 years,0.0,10
+14,Alabama,Female,15-24 years,0.0,20
+15,Alabama,Female,25-34 years,,30
+16,Alabama,Female,35-44 years,20.0,40
+17,Alabama,Female,45-54 years,46.0,50
+18,Alabama,Female,55-64 years,111.0,60
+19,Alabama,Female,65-74 years,212.0,70
+20,Alabama,Female,75-84 years,227.0,80
+21,Alabama,Female,85 years and over,289.0,90
+22,Alaska,Male,Under 1 year,0.0,0.5
+23,Alaska,Male,1-4 years,0.0,2.5
+24,Alaska,Male,5-14 years,0.0,10
+25,Alaska,Male,15-24 years,0.0,20
+26,Alaska,Male,25-34 years,0.0,30
+27,Alaska,Male,35-44 years,0.0,40
+28,Alaska,Male,45-54 years,,50
+29,Alaska,Male,55-64 years,0.0,60
+30,Alaska,Male,65-74 years,,70
+31,Alaska,Male,75-84 years,,80
+32,Alaska,Male,85 years and over,,90
+33,Alaska,Female,Under 1 year,0.0,0.5
+34,Alaska,Female,1-4 years,0.0,2.5
+35,Alaska,Female,5-14 years,0.0,10
+36,Alaska,Female,15-24 years,0.0,20
+37,Alaska,Female,25-34 years,,30
+38,Alaska,Female,35-44 years,0.0,40
+39,Alaska,Female,45-54 years,,50
+40,Alaska,Female,55-64 years,,60
+41,Alaska,Female,65-74 years,,70
+42,Alaska,Female,75-84 years,,80
+43,Alaska,Female,85 years and over,0.0,90
+44,Arizona,Male,Under 1 year,0.0,0.5
+45,Arizona,Male,1-4 years,,2.5
+46,Arizona,Male,5-14 years,,10
+47,Arizona,Male,15-24 years,11.0,20
+48,Arizona,Male,25-34 years,40.0,30
+49,Arizona,Male,35-44 years,77.0,40
+50,Arizona,Male,45-54 years,168.0,50
+51,Arizona,Male,55-64 years,356.0,60
+52,Arizona,Male,65-74 years,485.0,70
+53,Arizona,Male,75-84 years,574.0,80
+54,Arizona,Male,85 years and over,426.0,90
+55,Arizona,Female,Under 1 year,0.0,0.5
+56,Arizona,Female,1-4 years,0.0,2.5
+57,Arizona,Female,5-14 years,0.0,10
+58,Arizona,Female,15-24 years,,20
+59,Arizona,Female,25-34 years,20.0,30
+60,Arizona,Female,35-44 years,38.0,40
+61,Arizona,Female,45-54 years,72.0,50
+62,Arizona,Female,55-64 years,214.0,60
+63,Arizona,Female,65-74 years,326.0,70
+64,Arizona,Female,75-84 years,417.0,80
+65,Arizona,Female,85 years and over,478.0,90
+66,Arkansas,Male,Under 1 year,0.0,0.5
+67,Arkansas,Male,1-4 years,0.0,2.5
+68,Arkansas,Male,5-14 years,0.0,10
+69,Arkansas,Male,15-24 years,,20
+70,Arkansas,Male,25-34 years,,30
+71,Arkansas,Male,35-44 years,,40
+72,Arkansas,Male,45-54 years,28.0,50
+73,Arkansas,Male,55-64 years,59.0,60
+74,Arkansas,Male,65-74 years,61.0,70
+75,Arkansas,Male,75-84 years,80.0,80
+76,Arkansas,Male,85 years and over,50.0,90
+77,Arkansas,Female,Under 1 year,0.0,0.5
+78,Arkansas,Female,1-4 years,0.0,2.5
+79,Arkansas,Female,5-14 years,0.0,10
+80,Arkansas,Female,15-24 years,,20
+81,Arkansas,Female,25-34 years,,30
+82,Arkansas,Female,35-44 years,,40
+83,Arkansas,Female,45-54 years,12.0,50
+84,Arkansas,Female,55-64 years,27.0,60
+85,Arkansas,Female,65-74 years,34.0,70
+86,Arkansas,Female,75-84 years,58.0,80
+87,Arkansas,Female,85 years and over,95.0,90
+88,California,Male,Under 1 year,,0.5
+89,California,Male,1-4 years,0.0,2.5
+90,California,Male,5-14 years,0.0,10
+91,California,Male,15-24 years,,20
+92,California,Male,25-34 years,67.0,30
+93,California,Male,35-44 years,190.0,40
+94,California,Male,45-54 years,457.0,50
+95,California,Male,55-64 years,947.0,60
+96,California,Male,65-74 years,1351.0,70
+97,California,Male,75-84 years,1284.0,80
+98,California,Male,85 years and over,1154.0,90
+99,California,Female,Under 1 year,0.0,0.5
+100,California,Female,1-4 years,0.0,2.5
+101,California,Female,5-14 years,0.0,10
+102,California,Female,15-24 years,,20
+103,California,Female,25-34 years,30.0,30
+104,California,Female,35-44 years,82.0,40
+105,California,Female,45-54 years,182.0,50
+106,California,Female,55-64 years,383.0,60
+107,California,Female,65-74 years,695.0,70
+108,California,Female,75-84 years,1009.0,80
+109,California,Female,85 years and over,1617.0,90
+110,Colorado,Male,Under 1 year,0.0,0.5
+111,Colorado,Male,1-4 years,0.0,2.5
+112,Colorado,Male,5-14 years,0.0,10
+113,Colorado,Male,15-24 years,,20
+114,Colorado,Male,25-34 years,,30
+115,Colorado,Male,35-44 years,17.0,40
+116,Colorado,Male,45-54 years,61.0,50
+117,Colorado,Male,55-64 years,126.0,60
+118,Colorado,Male,65-74 years,222.0,70
+119,Colorado,Male,75-84 years,273.0,80
+120,Colorado,Male,85 years and over,281.0,90
+121,Colorado,Female,Under 1 year,0.0,0.5
+122,Colorado,Female,1-4 years,0.0,2.5
+123,Colorado,Female,5-14 years,0.0,10
+124,Colorado,Female,15-24 years,,20
+125,Colorado,Female,25-34 years,,30
+126,Colorado,Female,35-44 years,,40
+127,Colorado,Female,45-54 years,20.0,50
+128,Colorado,Female,55-64 years,43.0,60
+129,Colorado,Female,65-74 years,120.0,70
+130,Colorado,Female,75-84 years,209.0,80
+131,Colorado,Female,85 years and over,364.0,90
+132,Connecticut,Male,Under 1 year,0.0,0.5
+133,Connecticut,Male,1-4 years,0.0,2.5
+134,Connecticut,Male,5-14 years,0.0,10
+135,Connecticut,Male,15-24 years,,20
+136,Connecticut,Male,25-34 years,,30
+137,Connecticut,Male,35-44 years,19.0,40
+138,Connecticut,Male,45-54 years,71.0,50
+139,Connecticut,Male,55-64 years,224.0,60
+140,Connecticut,Male,65-74 years,447.0,70
+141,Connecticut,Male,75-84 years,557.0,80
+142,Connecticut,Male,85 years and over,701.0,90
+143,Connecticut,Female,Under 1 year,0.0,0.5
+144,Connecticut,Female,1-4 years,0.0,2.5
+145,Connecticut,Female,5-14 years,0.0,10
+146,Connecticut,Female,15-24 years,,20
+147,Connecticut,Female,25-34 years,,30
+148,Connecticut,Female,35-44 years,,40
+149,Connecticut,Female,45-54 years,26.0,50
+150,Connecticut,Female,55-64 years,121.0,60
+151,Connecticut,Female,65-74 years,280.0,70
+152,Connecticut,Female,75-84 years,555.0,80
+153,Connecticut,Female,85 years and over,1203.0,90
+154,Delaware,Male,Under 1 year,0.0,0.5
+155,Delaware,Male,1-4 years,0.0,2.5
+156,Delaware,Male,5-14 years,0.0,10
+157,Delaware,Male,15-24 years,,20
+158,Delaware,Male,25-34 years,,30
+159,Delaware,Male,35-44 years,,40
+160,Delaware,Male,45-54 years,10.0,50
+161,Delaware,Male,55-64 years,30.0,60
+162,Delaware,Male,65-74 years,69.0,70
+163,Delaware,Male,75-84 years,70.0,80
+164,Delaware,Male,85 years and over,64.0,90
+165,Delaware,Female,Under 1 year,0.0,0.5
+166,Delaware,Female,1-4 years,0.0,2.5
+167,Delaware,Female,5-14 years,0.0,10
+168,Delaware,Female,15-24 years,,20
+169,Delaware,Female,25-34 years,,30
+170,Delaware,Female,35-44 years,,40
+171,Delaware,Female,45-54 years,15.0,50
+172,Delaware,Female,55-64 years,22.0,60
+173,Delaware,Female,65-74 years,42.0,70
+174,Delaware,Female,75-84 years,68.0,80
+175,Delaware,Female,85 years and over,129.0,90
+176,District of Columbia,Male,Under 1 year,,0.5
+177,District of Columbia,Male,1-4 years,0.0,2.5
+178,District of Columbia,Male,5-14 years,0.0,10
+179,District of Columbia,Male,15-24 years,0.0,20
+180,District of Columbia,Male,25-34 years,,30
+181,District of Columbia,Male,35-44 years,18.0,40
+182,District of Columbia,Male,45-54 years,41.0,50
+183,District of Columbia,Male,55-64 years,77.0,60
+184,District of Columbia,Male,65-74 years,122.0,70
+185,District of Columbia,Male,75-84 years,83.0,80
+186,District of Columbia,Male,85 years and over,57.0,90
+187,District of Columbia,Female,Under 1 year,0.0,0.5
+188,District of Columbia,Female,1-4 years,0.0,2.5
+189,District of Columbia,Female,5-14 years,0.0,10
+190,District of Columbia,Female,15-24 years,,20
+191,District of Columbia,Female,25-34 years,,30
+192,District of Columbia,Female,35-44 years,,40
+193,District of Columbia,Female,45-54 years,21.0,50
+194,District of Columbia,Female,55-64 years,47.0,60
+195,District of Columbia,Female,65-74 years,65.0,70
+196,District of Columbia,Female,75-84 years,60.0,80
+197,District of Columbia,Female,85 years and over,84.0,90
+198,Florida,Male,Under 1 year,0.0,0.5
+199,Florida,Male,1-4 years,0.0,2.5
+200,Florida,Male,5-14 years,,10
+201,Florida,Male,15-24 years,,20
+202,Florida,Male,25-34 years,27.0,30
+203,Florida,Male,35-44 years,103.0,40
+204,Florida,Male,45-54 years,210.0,50
+205,Florida,Male,55-64 years,476.0,60
+206,Florida,Male,65-74 years,883.0,70
+207,Florida,Male,75-84 years,1135.0,80
+208,Florida,Male,85 years and over,996.0,90
+209,Florida,Female,Under 1 year,0.0,0.5
+210,Florida,Female,1-4 years,0.0,2.5
+211,Florida,Female,5-14 years,,10
+212,Florida,Female,15-24 years,,20
+213,Florida,Female,25-34 years,18.0,30
+214,Florida,Female,35-44 years,50.0,40
+215,Florida,Female,45-54 years,97.0,50
+216,Florida,Female,55-64 years,250.0,60
+217,Florida,Female,65-74 years,567.0,70
+218,Florida,Female,75-84 years,877.0,80
+219,Florida,Female,85 years and over,1286.0,90
+220,Georgia,Male,Under 1 year,,0.5
+221,Georgia,Male,1-4 years,0.0,2.5
+222,Georgia,Male,5-14 years,0.0,10
+223,Georgia,Male,15-24 years,,20
+224,Georgia,Male,25-34 years,25.0,30
+225,Georgia,Male,35-44 years,35.0,40
+226,Georgia,Male,45-54 years,125.0,50
+227,Georgia,Male,55-64 years,275.0,60
+228,Georgia,Male,65-74 years,464.0,70
+229,Georgia,Male,75-84 years,487.0,80
+230,Georgia,Male,85 years and over,317.0,90
+231,Georgia,Female,Under 1 year,0.0,0.5
+232,Georgia,Female,1-4 years,0.0,2.5
+233,Georgia,Female,5-14 years,0.0,10
+234,Georgia,Female,15-24 years,,20
+235,Georgia,Female,25-34 years,13.0,30
+236,Georgia,Female,35-44 years,33.0,40
+237,Georgia,Female,45-54 years,72.0,50
+238,Georgia,Female,55-64 years,177.0,60
+239,Georgia,Female,65-74 years,313.0,70
+240,Georgia,Female,75-84 years,419.0,80
+241,Georgia,Female,85 years and over,522.0,90
+242,Hawaii,Male,Under 1 year,0.0,0.5
+243,Hawaii,Male,1-4 years,0.0,2.5
+244,Hawaii,Male,5-14 years,0.0,10
+245,Hawaii,Male,15-24 years,0.0,20
+246,Hawaii,Male,25-34 years,0.0,30
+247,Hawaii,Male,35-44 years,0.0,40
+248,Hawaii,Male,45-54 years,,50
+249,Hawaii,Male,55-64 years,,60
+250,Hawaii,Male,65-74 years,,70
+251,Hawaii,Male,75-84 years,,80
+252,Hawaii,Male,85 years and over,,90
+253,Hawaii,Female,Under 1 year,0.0,0.5
+254,Hawaii,Female,1-4 years,0.0,2.5
+255,Hawaii,Female,5-14 years,0.0,10
+256,Hawaii,Female,15-24 years,0.0,20
+257,Hawaii,Female,25-34 years,,30
+258,Hawaii,Female,35-44 years,0.0,40
+259,Hawaii,Female,45-54 years,,50
+260,Hawaii,Female,55-64 years,0.0,60
+261,Hawaii,Female,65-74 years,0.0,70
+262,Hawaii,Female,75-84 years,,80
+263,Hawaii,Female,85 years and over,,90
+264,Idaho,Male,Under 1 year,0.0,0.5
+265,Idaho,Male,1-4 years,0.0,2.5
+266,Idaho,Male,5-14 years,0.0,10
+267,Idaho,Male,15-24 years,0.0,20
+268,Idaho,Male,25-34 years,0.0,30
+269,Idaho,Male,35-44 years,,40
+270,Idaho,Male,45-54 years,,50
+271,Idaho,Male,55-64 years,,60
+272,Idaho,Male,65-74 years,17.0,70
+273,Idaho,Male,75-84 years,43.0,80
+274,Idaho,Male,85 years and over,36.0,90
+275,Idaho,Female,Under 1 year,0.0,0.5
+276,Idaho,Female,1-4 years,0.0,2.5
+277,Idaho,Female,5-14 years,0.0,10
+278,Idaho,Female,15-24 years,0.0,20
+279,Idaho,Female,25-34 years,0.0,30
+280,Idaho,Female,35-44 years,,40
+281,Idaho,Female,45-54 years,,50
+282,Idaho,Female,55-64 years,,60
+283,Idaho,Female,65-74 years,17.0,70
+284,Idaho,Female,75-84 years,26.0,80
+285,Idaho,Female,85 years and over,48.0,90
+286,Illinois,Male,Under 1 year,,0.5
+287,Illinois,Male,1-4 years,0.0,2.5
+288,Illinois,Male,5-14 years,,10
+289,Illinois,Male,15-24 years,,20
+290,Illinois,Male,25-34 years,42.0,30
+291,Illinois,Male,35-44 years,122.0,40
+292,Illinois,Male,45-54 years,293.0,50
+293,Illinois,Male,55-64 years,590.0,60
+294,Illinois,Male,65-74 years,968.0,70
+295,Illinois,Male,75-84 years,990.0,80
+296,Illinois,Male,85 years and over,807.0,90
+297,Illinois,Female,Under 1 year,,0.5
+298,Illinois,Female,1-4 years,0.0,2.5
+299,Illinois,Female,5-14 years,0.0,10
+300,Illinois,Female,15-24 years,,20
+301,Illinois,Female,25-34 years,19.0,30
+302,Illinois,Female,35-44 years,45.0,40
+303,Illinois,Female,45-54 years,115.0,50
+304,Illinois,Female,55-64 years,306.0,60
+305,Illinois,Female,65-74 years,543.0,70
+306,Illinois,Female,75-84 years,762.0,80
+307,Illinois,Female,85 years and over,1353.0,90
+308,Indiana,Male,Under 1 year,0.0,0.5
+309,Indiana,Male,1-4 years,,2.5
+310,Indiana,Male,5-14 years,0.0,10
+311,Indiana,Male,15-24 years,,20
+312,Indiana,Male,25-34 years,10.0,30
+313,Indiana,Male,35-44 years,15.0,40
+314,Indiana,Male,45-54 years,50.0,50
+315,Indiana,Male,55-64 years,179.0,60
+316,Indiana,Male,65-74 years,392.0,70
+317,Indiana,Male,75-84 years,418.0,80
+318,Indiana,Male,85 years and over,401.0,90
+319,Indiana,Female,Under 1 year,0.0,0.5
+320,Indiana,Female,1-4 years,0.0,2.5
+321,Indiana,Female,5-14 years,0.0,10
+322,Indiana,Female,15-24 years,,20
+323,Indiana,Female,25-34 years,,30
+324,Indiana,Female,35-44 years,15.0,40
+325,Indiana,Female,45-54 years,34.0,50
+326,Indiana,Female,55-64 years,103.0,60
+327,Indiana,Female,65-74 years,227.0,70
+328,Indiana,Female,75-84 years,419.0,80
+329,Indiana,Female,85 years and over,643.0,90
+330,Iowa,Male,Under 1 year,0.0,0.5
+331,Iowa,Male,1-4 years,0.0,2.5
+332,Iowa,Male,5-14 years,0.0,10
+333,Iowa,Male,15-24 years,0.0,20
+334,Iowa,Male,25-34 years,,30
+335,Iowa,Male,35-44 years,,40
+336,Iowa,Male,45-54 years,27.0,50
+337,Iowa,Male,55-64 years,76.0,60
+338,Iowa,Male,65-74 years,117.0,70
+339,Iowa,Male,75-84 years,112.0,80
+340,Iowa,Male,85 years and over,140.0,90
+341,Iowa,Female,Under 1 year,,0.5
+342,Iowa,Female,1-4 years,0.0,2.5
+343,Iowa,Female,5-14 years,0.0,10
+344,Iowa,Female,15-24 years,,20
+345,Iowa,Female,25-34 years,,30
+346,Iowa,Female,35-44 years,,40
+347,Iowa,Female,45-54 years,10.0,50
+348,Iowa,Female,55-64 years,45.0,60
+349,Iowa,Female,65-74 years,78.0,70
+350,Iowa,Female,75-84 years,103.0,80
+351,Iowa,Female,85 years and over,172.0,90
+352,Kansas,Male,Under 1 year,0.0,0.5
+353,Kansas,Male,1-4 years,0.0,2.5
+354,Kansas,Male,5-14 years,0.0,10
+355,Kansas,Male,15-24 years,,20
+356,Kansas,Male,25-34 years,,30
+357,Kansas,Male,35-44 years,,40
+358,Kansas,Male,45-54 years,14.0,50
+359,Kansas,Male,55-64 years,38.0,60
+360,Kansas,Male,65-74 years,46.0,70
+361,Kansas,Male,75-84 years,56.0,80
+362,Kansas,Male,85 years and over,50.0,90
+363,Kansas,Female,Under 1 year,0.0,0.5
+364,Kansas,Female,1-4 years,0.0,2.5
+365,Kansas,Female,5-14 years,0.0,10
+366,Kansas,Female,15-24 years,,20
+367,Kansas,Female,25-34 years,,30
+368,Kansas,Female,35-44 years,,40
+369,Kansas,Female,45-54 years,,50
+370,Kansas,Female,55-64 years,18.0,60
+371,Kansas,Female,65-74 years,26.0,70
+372,Kansas,Female,75-84 years,34.0,80
+373,Kansas,Female,85 years and over,84.0,90
+374,Kentucky,Male,Under 1 year,0.0,0.5
+375,Kentucky,Male,1-4 years,0.0,2.5
+376,Kentucky,Male,5-14 years,0.0,10
+377,Kentucky,Male,15-24 years,0.0,20
+378,Kentucky,Male,25-34 years,,30
+379,Kentucky,Male,35-44 years,11.0,40
+380,Kentucky,Male,45-54 years,17.0,50
+381,Kentucky,Male,55-64 years,45.0,60
+382,Kentucky,Male,65-74 years,106.0,70
+383,Kentucky,Male,75-84 years,80.0,80
+384,Kentucky,Male,85 years and over,78.0,90
+385,Kentucky,Female,Under 1 year,0.0,0.5
+386,Kentucky,Female,1-4 years,0.0,2.5
+387,Kentucky,Female,5-14 years,0.0,10
+388,Kentucky,Female,15-24 years,0.0,20
+389,Kentucky,Female,25-34 years,,30
+390,Kentucky,Female,35-44 years,,40
+391,Kentucky,Female,45-54 years,12.0,50
+392,Kentucky,Female,55-64 years,36.0,60
+393,Kentucky,Female,65-74 years,59.0,70
+394,Kentucky,Female,75-84 years,102.0,80
+395,Kentucky,Female,85 years and over,196.0,90
+396,Louisiana,Male,Under 1 year,0.0,0.5
+397,Louisiana,Male,1-4 years,,2.5
+398,Louisiana,Male,5-14 years,,10
+399,Louisiana,Male,15-24 years,,20
+400,Louisiana,Male,25-34 years,11.0,30
+401,Louisiana,Male,35-44 years,47.0,40
+402,Louisiana,Male,45-54 years,124.0,50
+403,Louisiana,Male,55-64 years,285.0,60
+404,Louisiana,Male,65-74 years,468.0,70
+405,Louisiana,Male,75-84 years,553.0,80
+406,Louisiana,Male,85 years and over,381.0,90
+407,Louisiana,Female,Under 1 year,,0.5
+408,Louisiana,Female,1-4 years,0.0,2.5
+409,Louisiana,Female,5-14 years,0.0,10
+410,Louisiana,Female,15-24 years,,20
+411,Louisiana,Female,25-34 years,13.0,30
+412,Louisiana,Female,35-44 years,38.0,40
+413,Louisiana,Female,45-54 years,76.0,50
+414,Louisiana,Female,55-64 years,212.0,60
+415,Louisiana,Female,65-74 years,301.0,70
+416,Louisiana,Female,75-84 years,479.0,80
+417,Louisiana,Female,85 years and over,544.0,90
+418,Maine,Male,Under 1 year,0.0,0.5
+419,Maine,Male,1-4 years,0.0,2.5
+420,Maine,Male,5-14 years,0.0,10
+421,Maine,Male,15-24 years,0.0,20
+422,Maine,Male,25-34 years,0.0,30
+423,Maine,Male,35-44 years,,40
+424,Maine,Male,45-54 years,,50
+425,Maine,Male,55-64 years,,60
+426,Maine,Male,65-74 years,17.0,70
+427,Maine,Male,75-84 years,20.0,80
+428,Maine,Male,85 years and over,19.0,90
+429,Maine,Female,Under 1 year,0.0,0.5
+430,Maine,Female,1-4 years,0.0,2.5
+431,Maine,Female,5-14 years,0.0,10
+432,Maine,Female,15-24 years,0.0,20
+433,Maine,Female,25-34 years,0.0,30
+434,Maine,Female,35-44 years,,40
+435,Maine,Female,45-54 years,,50
+436,Maine,Female,55-64 years,,60
+437,Maine,Female,65-74 years,,70
+438,Maine,Female,75-84 years,22.0,80
+439,Maine,Female,85 years and over,37.0,90
+440,Maryland,Male,Under 1 year,0.0,0.5
+441,Maryland,Male,1-4 years,0.0,2.5
+442,Maryland,Male,5-14 years,0.0,10
+443,Maryland,Male,15-24 years,,20
+444,Maryland,Male,25-34 years,27.0,30
+445,Maryland,Male,35-44 years,61.0,40
+446,Maryland,Male,45-54 years,118.0,50
+447,Maryland,Male,55-64 years,302.0,60
+448,Maryland,Male,65-74 years,419.0,70
+449,Maryland,Male,75-84 years,551.0,80
+450,Maryland,Male,85 years and over,465.0,90
+451,Maryland,Female,Under 1 year,0.0,0.5
+452,Maryland,Female,1-4 years,0.0,2.5
+453,Maryland,Female,5-14 years,0.0,10
+454,Maryland,Female,15-24 years,,20
+455,Maryland,Female,25-34 years,,30
+456,Maryland,Female,35-44 years,22.0,40
+457,Maryland,Female,45-54 years,72.0,50
+458,Maryland,Female,55-64 years,165.0,60
+459,Maryland,Female,65-74 years,332.0,70
+460,Maryland,Female,75-84 years,494.0,80
+461,Maryland,Female,85 years and over,779.0,90
+462,Massachusetts,Male,Under 1 year,0.0,0.5
+463,Massachusetts,Male,1-4 years,0.0,2.5
+464,Massachusetts,Male,5-14 years,0.0,10
+465,Massachusetts,Male,15-24 years,,20
+466,Massachusetts,Male,25-34 years,12.0,30
+467,Massachusetts,Male,35-44 years,30.0,40
+468,Massachusetts,Male,45-54 years,96.0,50
+469,Massachusetts,Male,55-64 years,334.0,60
+470,Massachusetts,Male,65-74 years,723.0,70
+471,Massachusetts,Male,75-84 years,1124.0,80
+472,Massachusetts,Male,85 years and over,1358.0,90
+473,Massachusetts,Female,Under 1 year,0.0,0.5
+474,Massachusetts,Female,1-4 years,0.0,2.5
+475,Massachusetts,Female,5-14 years,0.0,10
+476,Massachusetts,Female,15-24 years,,20
+477,Massachusetts,Female,25-34 years,,30
+478,Massachusetts,Female,35-44 years,13.0,40
+479,Massachusetts,Female,45-54 years,64.0,50
+480,Massachusetts,Female,55-64 years,198.0,60
+481,Massachusetts,Female,65-74 years,485.0,70
+482,Massachusetts,Female,75-84 years,1034.0,80
+483,Massachusetts,Female,85 years and over,2388.0,90
+484,Michigan,Male,Under 1 year,0.0,0.5
+485,Michigan,Male,1-4 years,0.0,2.5
+486,Michigan,Male,5-14 years,0.0,10
+487,Michigan,Male,15-24 years,,20
+488,Michigan,Male,25-34 years,27.0,30
+489,Michigan,Male,35-44 years,58.0,40
+490,Michigan,Male,45-54 years,208.0,50
+491,Michigan,Male,55-64 years,436.0,60
+492,Michigan,Male,65-74 years,811.0,70
+493,Michigan,Male,75-84 years,840.0,80
+494,Michigan,Male,85 years and over,655.0,90
+495,Michigan,Female,Under 1 year,0.0,0.5
+496,Michigan,Female,1-4 years,0.0,2.5
+497,Michigan,Female,5-14 years,,10
+498,Michigan,Female,15-24 years,,20
+499,Michigan,Female,25-34 years,13.0,30
+500,Michigan,Female,35-44 years,34.0,40
+501,Michigan,Female,45-54 years,119.0,50
+502,Michigan,Female,55-64 years,279.0,60
+503,Michigan,Female,65-74 years,578.0,70
+504,Michigan,Female,75-84 years,692.0,80
+505,Michigan,Female,85 years and over,1064.0,90
+506,Minnesota,Male,Under 1 year,0.0,0.5
+507,Minnesota,Male,1-4 years,0.0,2.5
+508,Minnesota,Male,5-14 years,0.0,10
+509,Minnesota,Male,15-24 years,,20
+510,Minnesota,Male,25-34 years,,30
+511,Minnesota,Male,35-44 years,,40
+512,Minnesota,Male,45-54 years,27.0,50
+513,Minnesota,Male,55-64 years,83.0,60
+514,Minnesota,Male,65-74 years,149.0,70
+515,Minnesota,Male,75-84 years,233.0,80
+516,Minnesota,Male,85 years and over,275.0,90
+517,Minnesota,Female,Under 1 year,,0.5
+518,Minnesota,Female,1-4 years,0.0,2.5
+519,Minnesota,Female,5-14 years,0.0,10
+520,Minnesota,Female,15-24 years,0.0,20
+521,Minnesota,Female,25-34 years,,30
+522,Minnesota,Female,35-44 years,,40
+523,Minnesota,Female,45-54 years,15.0,50
+524,Minnesota,Female,55-64 years,42.0,60
+525,Minnesota,Female,65-74 years,117.0,70
+526,Minnesota,Female,75-84 years,202.0,80
+527,Minnesota,Female,85 years and over,447.0,90
+528,Mississippi,Male,Under 1 year,0.0,0.5
+529,Mississippi,Male,1-4 years,0.0,2.5
+530,Mississippi,Male,5-14 years,0.0,10
+531,Mississippi,Male,15-24 years,,20
+532,Mississippi,Male,25-34 years,,30
+533,Mississippi,Male,35-44 years,24.0,40
+534,Mississippi,Male,45-54 years,60.0,50
+535,Mississippi,Male,55-64 years,130.0,60
+536,Mississippi,Male,65-74 years,217.0,70
+537,Mississippi,Male,75-84 years,220.0,80
+538,Mississippi,Male,85 years and over,139.0,90
+539,Mississippi,Female,Under 1 year,0.0,0.5
+540,Mississippi,Female,1-4 years,0.0,2.5
+541,Mississippi,Female,5-14 years,0.0,10
+542,Mississippi,Female,15-24 years,,20
+543,Mississippi,Female,25-34 years,,30
+544,Mississippi,Female,35-44 years,21.0,40
+545,Mississippi,Female,45-54 years,58.0,50
+546,Mississippi,Female,55-64 years,129.0,60
+547,Mississippi,Female,65-74 years,163.0,70
+548,Mississippi,Female,75-84 years,206.0,80
+549,Mississippi,Female,85 years and over,259.0,90
+550,Missouri,Male,Under 1 year,0.0,0.5
+551,Missouri,Male,1-4 years,0.0,2.5
+552,Missouri,Male,5-14 years,0.0,10
+553,Missouri,Male,15-24 years,0.0,20
+554,Missouri,Male,25-34 years,,30
+555,Missouri,Male,35-44 years,,40
+556,Missouri,Male,45-54 years,28.0,50
+557,Missouri,Male,55-64 years,78.0,60
+558,Missouri,Male,65-74 years,145.0,70
+559,Missouri,Male,75-84 years,174.0,80
+560,Missouri,Male,85 years and over,163.0,90
+561,Missouri,Female,Under 1 year,0.0,0.5
+562,Missouri,Female,1-4 years,0.0,2.5
+563,Missouri,Female,5-14 years,0.0,10
+564,Missouri,Female,15-24 years,,20
+565,Missouri,Female,25-34 years,,30
+566,Missouri,Female,35-44 years,,40
+567,Missouri,Female,45-54 years,16.0,50
+568,Missouri,Female,55-64 years,45.0,60
+569,Missouri,Female,65-74 years,102.0,70
+570,Missouri,Female,75-84 years,148.0,80
+571,Missouri,Female,85 years and over,297.0,90
+572,Montana,Male,Under 1 year,0.0,0.5
+573,Montana,Male,1-4 years,0.0,2.5
+574,Montana,Male,5-14 years,0.0,10
+575,Montana,Male,15-24 years,0.0,20
+576,Montana,Male,25-34 years,0.0,30
+577,Montana,Male,35-44 years,0.0,40
+578,Montana,Male,45-54 years,,50
+579,Montana,Male,55-64 years,,60
+580,Montana,Male,65-74 years,,70
+581,Montana,Male,75-84 years,10.0,80
+582,Montana,Male,85 years and over,,90
+583,Montana,Female,Under 1 year,0.0,0.5
+584,Montana,Female,1-4 years,0.0,2.5
+585,Montana,Female,5-14 years,0.0,10
+586,Montana,Female,15-24 years,0.0,20
+587,Montana,Female,25-34 years,,30
+588,Montana,Female,35-44 years,0.0,40
+589,Montana,Female,45-54 years,0.0,50
+590,Montana,Female,55-64 years,,60
+591,Montana,Female,65-74 years,,70
+592,Montana,Female,75-84 years,,80
+593,Montana,Female,85 years and over,13.0,90
+594,Nebraska,Male,Under 1 year,0.0,0.5
+595,Nebraska,Male,1-4 years,0.0,2.5
+596,Nebraska,Male,5-14 years,0.0,10
+597,Nebraska,Male,15-24 years,0.0,20
+598,Nebraska,Male,25-34 years,,30
+599,Nebraska,Male,35-44 years,,40
+600,Nebraska,Male,45-54 years,14.0,50
+601,Nebraska,Male,55-64 years,28.0,60
+602,Nebraska,Male,65-74 years,46.0,70
+603,Nebraska,Male,75-84 years,43.0,80
+604,Nebraska,Male,85 years and over,34.0,90
+605,Nebraska,Female,Under 1 year,0.0,0.5
+606,Nebraska,Female,1-4 years,0.0,2.5
+607,Nebraska,Female,5-14 years,0.0,10
+608,Nebraska,Female,15-24 years,0.0,20
+609,Nebraska,Female,25-34 years,,30
+610,Nebraska,Female,35-44 years,,40
+611,Nebraska,Female,45-54 years,,50
+612,Nebraska,Female,55-64 years,21.0,60
+613,Nebraska,Female,65-74 years,26.0,70
+614,Nebraska,Female,75-84 years,39.0,80
+615,Nebraska,Female,85 years and over,54.0,90
+616,Nevada,Male,Under 1 year,0.0,0.5
+617,Nevada,Male,1-4 years,0.0,2.5
+618,Nevada,Male,5-14 years,,10
+619,Nevada,Male,15-24 years,,20
+620,Nevada,Male,25-34 years,,30
+621,Nevada,Male,35-44 years,14.0,40
+622,Nevada,Male,45-54 years,56.0,50
+623,Nevada,Male,55-64 years,64.0,60
+624,Nevada,Male,65-74 years,133.0,70
+625,Nevada,Male,75-84 years,151.0,80
+626,Nevada,Male,85 years and over,81.0,90
+627,Nevada,Female,Under 1 year,0.0,0.5
+628,Nevada,Female,1-4 years,0.0,2.5
+629,Nevada,Female,5-14 years,0.0,10
+630,Nevada,Female,15-24 years,0.0,20
+631,Nevada,Female,25-34 years,,30
+632,Nevada,Female,35-44 years,,40
+633,Nevada,Female,45-54 years,18.0,50
+634,Nevada,Female,55-64 years,42.0,60
+635,Nevada,Female,65-74 years,80.0,70
+636,Nevada,Female,75-84 years,102.0,80
+637,Nevada,Female,85 years and over,68.0,90
+638,New Hampshire,Male,Under 1 year,0.0,0.5
+639,New Hampshire,Male,1-4 years,0.0,2.5
+640,New Hampshire,Male,5-14 years,0.0,10
+641,New Hampshire,Male,15-24 years,,20
+642,New Hampshire,Male,25-34 years,0.0,30
+643,New Hampshire,Male,35-44 years,,40
+644,New Hampshire,Male,45-54 years,,50
+645,New Hampshire,Male,55-64 years,14.0,60
+646,New Hampshire,Male,65-74 years,34.0,70
+647,New Hampshire,Male,75-84 years,63.0,80
+648,New Hampshire,Male,85 years and over,77.0,90
+649,New Hampshire,Female,Under 1 year,0.0,0.5
+650,New Hampshire,Female,1-4 years,0.0,2.5
+651,New Hampshire,Female,5-14 years,0.0,10
+652,New Hampshire,Female,15-24 years,0.0,20
+653,New Hampshire,Female,25-34 years,0.0,30
+654,New Hampshire,Female,35-44 years,0.0,40
+655,New Hampshire,Female,45-54 years,,50
+656,New Hampshire,Female,55-64 years,,60
+657,New Hampshire,Female,65-74 years,26.0,70
+658,New Hampshire,Female,75-84 years,51.0,80
+659,New Hampshire,Female,85 years and over,120.0,90
+660,New Jersey,Male,Under 1 year,0.0,0.5
+661,New Jersey,Male,1-4 years,0.0,2.5
+662,New Jersey,Male,5-14 years,0.0,10
+663,New Jersey,Male,15-24 years,11.0,20
+664,New Jersey,Male,25-34 years,73.0,30
+665,New Jersey,Male,35-44 years,198.0,40
+666,New Jersey,Male,45-54 years,556.0,50
+667,New Jersey,Male,55-64 years,1226.0,60
+668,New Jersey,Male,65-74 years,1701.0,70
+669,New Jersey,Male,75-84 years,1918.0,80
+670,New Jersey,Male,85 years and over,1765.0,90
+671,New Jersey,Female,Under 1 year,0.0,0.5
+672,New Jersey,Female,1-4 years,,2.5
+673,New Jersey,Female,5-14 years,0.0,10
+674,New Jersey,Female,15-24 years,,20
+675,New Jersey,Female,25-34 years,33.0,30
+676,New Jersey,Female,35-44 years,66.0,40
+677,New Jersey,Female,45-54 years,184.0,50
+678,New Jersey,Female,55-64 years,563.0,60
+679,New Jersey,Female,65-74 years,1007.0,70
+680,New Jersey,Female,75-84 years,1711.0,80
+681,New Jersey,Female,85 years and over,2976.0,90
+682,New Mexico,Male,Under 1 year,0.0,0.5
+683,New Mexico,Male,1-4 years,0.0,2.5
+684,New Mexico,Male,5-14 years,0.0,10
+685,New Mexico,Male,15-24 years,,20
+686,New Mexico,Male,25-34 years,16.0,30
+687,New Mexico,Male,35-44 years,18.0,40
+688,New Mexico,Male,45-54 years,31.0,50
+689,New Mexico,Male,55-64 years,48.0,60
+690,New Mexico,Male,65-74 years,76.0,70
+691,New Mexico,Male,75-84 years,59.0,80
+692,New Mexico,Male,85 years and over,78.0,90
+693,New Mexico,Female,Under 1 year,0.0,0.5
+694,New Mexico,Female,1-4 years,0.0,2.5
+695,New Mexico,Female,5-14 years,0.0,10
+696,New Mexico,Female,15-24 years,0.0,20
+697,New Mexico,Female,25-34 years,,30
+698,New Mexico,Female,35-44 years,,40
+699,New Mexico,Female,45-54 years,18.0,50
+700,New Mexico,Female,55-64 years,39.0,60
+701,New Mexico,Female,65-74 years,46.0,70
+702,New Mexico,Female,75-84 years,81.0,80
+703,New Mexico,Female,85 years and over,101.0,90
+704,New York,Male,Under 1 year,0.0,0.5
+705,New York,Male,1-4 years,0.0,2.5
+706,New York,Male,5-14 years,,10
+707,New York,Male,15-24 years,11.0,20
+708,New York,Male,25-34 years,44.0,30
+709,New York,Male,35-44 years,124.0,40
+710,New York,Male,45-54 years,369.0,50
+711,New York,Male,55-64 years,905.0,60
+712,New York,Male,65-74 years,1450.0,70
+713,New York,Male,75-84 years,1585.0,80
+714,New York,Male,85 years and over,1516.0,90
+715,New York,Female,Under 1 year,0.0,0.5
+716,New York,Female,1-4 years,0.0,2.5
+717,New York,Female,5-14 years,0.0,10
+718,New York,Female,15-24 years,,20
+719,New York,Female,25-34 years,19.0,30
+720,New York,Female,35-44 years,51.0,40
+721,New York,Female,45-54 years,130.0,50
+722,New York,Female,55-64 years,434.0,60
+723,New York,Female,65-74 years,819.0,70
+724,New York,Female,75-84 years,1334.0,80
+725,New York,Female,85 years and over,2587.0,90
+726,New York City,Male,Under 1 year,,0.5
+727,New York City,Male,1-4 years,,2.5
+728,New York City,Male,5-14 years,,10
+729,New York City,Male,15-24 years,23.0,20
+730,New York City,Male,25-34 years,112.0,30
+731,New York City,Male,35-44 years,396.0,40
+732,New York City,Male,45-54 years,985.0,50
+733,New York City,Male,55-64 years,2213.0,60
+734,New York City,Male,65-74 years,3254.0,70
+735,New York City,Male,75-84 years,3095.0,80
+736,New York City,Male,85 years and over,2101.0,90
+737,New York City,Female,Under 1 year,,0.5
+738,New York City,Female,1-4 years,,2.5
+739,New York City,Female,5-14 years,,10
+740,New York City,Female,15-24 years,10.0,20
+741,New York City,Female,25-34 years,55.0,30
+742,New York City,Female,35-44 years,116.0,40
+743,New York City,Female,45-54 years,391.0,50
+744,New York City,Female,55-64 years,1053.0,60
+745,New York City,Female,65-74 years,1753.0,70
+746,New York City,Female,75-84 years,2278.0,80
+747,New York City,Female,85 years and over,2724.0,90
+748,North Carolina,Male,Under 1 year,0.0,0.5
+749,North Carolina,Male,1-4 years,0.0,2.5
+750,North Carolina,Male,5-14 years,0.0,10
+751,North Carolina,Male,15-24 years,,20
+752,North Carolina,Male,25-34 years,,30
+753,North Carolina,Male,35-44 years,24.0,40
+754,North Carolina,Male,45-54 years,57.0,50
+755,North Carolina,Male,55-64 years,111.0,60
+756,North Carolina,Male,65-74 years,176.0,70
+757,North Carolina,Male,75-84 years,223.0,80
+758,North Carolina,Male,85 years and over,181.0,90
+759,North Carolina,Female,Under 1 year,0.0,0.5
+760,North Carolina,Female,1-4 years,0.0,2.5
+761,North Carolina,Female,5-14 years,0.0,10
+762,North Carolina,Female,15-24 years,0.0,20
+763,North Carolina,Female,25-34 years,,30
+764,North Carolina,Female,35-44 years,,40
+765,North Carolina,Female,45-54 years,31.0,50
+766,North Carolina,Female,55-64 years,49.0,60
+767,North Carolina,Female,65-74 years,125.0,70
+768,North Carolina,Female,75-84 years,190.0,80
+769,North Carolina,Female,85 years and over,266.0,90
+770,North Dakota,Male,Under 1 year,0.0,0.5
+771,North Dakota,Male,1-4 years,0.0,2.5
+772,North Dakota,Male,5-14 years,0.0,10
+773,North Dakota,Male,15-24 years,0.0,20
+774,North Dakota,Male,25-34 years,0.0,30
+775,North Dakota,Male,35-44 years,,40
+776,North Dakota,Male,45-54 years,,50
+777,North Dakota,Male,55-64 years,12.0,60
+778,North Dakota,Male,65-74 years,12.0,70
+779,North Dakota,Male,75-84 years,16.0,80
+780,North Dakota,Male,85 years and over,23.0,90
+781,North Dakota,Female,Under 1 year,0.0,0.5
+782,North Dakota,Female,1-4 years,0.0,2.5
+783,North Dakota,Female,5-14 years,0.0,10
+784,North Dakota,Female,15-24 years,0.0,20
+785,North Dakota,Female,25-34 years,0.0,30
+786,North Dakota,Female,35-44 years,0.0,40
+787,North Dakota,Female,45-54 years,,50
+788,North Dakota,Female,55-64 years,,60
+789,North Dakota,Female,65-74 years,,70
+790,North Dakota,Female,75-84 years,20.0,80
+791,North Dakota,Female,85 years and over,29.0,90
+792,Ohio,Male,Under 1 year,0.0,0.5
+793,Ohio,Male,1-4 years,0.0,2.5
+794,Ohio,Male,5-14 years,0.0,10
+795,Ohio,Male,15-24 years,,20
+796,Ohio,Male,25-34 years,,30
+797,Ohio,Male,35-44 years,26.0,40
+798,Ohio,Male,45-54 years,62.0,50
+799,Ohio,Male,55-64 years,202.0,60
+800,Ohio,Male,65-74 years,402.0,70
+801,Ohio,Male,75-84 years,450.0,80
+802,Ohio,Male,85 years and over,435.0,90
+803,Ohio,Female,Under 1 year,0.0,0.5
+804,Ohio,Female,1-4 years,0.0,2.5
+805,Ohio,Female,5-14 years,0.0,10
+806,Ohio,Female,15-24 years,,20
+807,Ohio,Female,25-34 years,,30
+808,Ohio,Female,35-44 years,10.0,40
+809,Ohio,Female,45-54 years,29.0,50
+810,Ohio,Female,55-64 years,106.0,60
+811,Ohio,Female,65-74 years,227.0,70
+812,Ohio,Female,75-84 years,436.0,80
+813,Ohio,Female,85 years and over,651.0,90
+814,Oklahoma,Male,Under 1 year,,0.5
+815,Oklahoma,Male,1-4 years,0.0,2.5
+816,Oklahoma,Male,5-14 years,0.0,10
+817,Oklahoma,Male,15-24 years,,20
+818,Oklahoma,Male,25-34 years,,30
+819,Oklahoma,Male,35-44 years,,40
+820,Oklahoma,Male,45-54 years,12.0,50
+821,Oklahoma,Male,55-64 years,45.0,60
+822,Oklahoma,Male,65-74 years,78.0,70
+823,Oklahoma,Male,75-84 years,82.0,80
+824,Oklahoma,Male,85 years and over,71.0,90
+825,Oklahoma,Female,Under 1 year,0.0,0.5
+826,Oklahoma,Female,1-4 years,0.0,2.5
+827,Oklahoma,Female,5-14 years,,10
+828,Oklahoma,Female,15-24 years,0.0,20
+829,Oklahoma,Female,25-34 years,,30
+830,Oklahoma,Female,35-44 years,,40
+831,Oklahoma,Female,45-54 years,,50
+832,Oklahoma,Female,55-64 years,31.0,60
+833,Oklahoma,Female,65-74 years,64.0,70
+834,Oklahoma,Female,75-84 years,53.0,80
+835,Oklahoma,Female,85 years and over,88.0,90
+836,Oregon,Male,Under 1 year,0.0,0.5
+837,Oregon,Male,1-4 years,0.0,2.5
+838,Oregon,Male,5-14 years,0.0,10
+839,Oregon,Male,15-24 years,0.0,20
+840,Oregon,Male,25-34 years,,30
+841,Oregon,Male,35-44 years,,40
+842,Oregon,Male,45-54 years,10.0,50
+843,Oregon,Male,55-64 years,24.0,60
+844,Oregon,Male,65-74 years,46.0,70
+845,Oregon,Male,75-84 years,48.0,80
+846,Oregon,Male,85 years and over,50.0,90
+847,Oregon,Female,Under 1 year,0.0,0.5
+848,Oregon,Female,1-4 years,0.0,2.5
+849,Oregon,Female,5-14 years,0.0,10
+850,Oregon,Female,15-24 years,0.0,20
+851,Oregon,Female,25-34 years,,30
+852,Oregon,Female,35-44 years,,40
+853,Oregon,Female,45-54 years,,50
+854,Oregon,Female,55-64 years,12.0,60
+855,Oregon,Female,65-74 years,25.0,70
+856,Oregon,Female,75-84 years,35.0,80
+857,Oregon,Female,85 years and over,63.0,90
+858,Pennsylvania,Male,Under 1 year,0.0,0.5
+859,Pennsylvania,Male,1-4 years,0.0,2.5
+860,Pennsylvania,Male,5-14 years,0.0,10
+861,Pennsylvania,Male,15-24 years,,20
+862,Pennsylvania,Male,25-34 years,18.0,30
+863,Pennsylvania,Male,35-44 years,41.0,40
+864,Pennsylvania,Male,45-54 years,163.0,50
+865,Pennsylvania,Male,55-64 years,434.0,60
+866,Pennsylvania,Male,65-74 years,791.0,70
+867,Pennsylvania,Male,75-84 years,1034.0,80
+868,Pennsylvania,Male,85 years and over,1180.0,90
+869,Pennsylvania,Female,Under 1 year,0.0,0.5
+870,Pennsylvania,Female,1-4 years,0.0,2.5
+871,Pennsylvania,Female,5-14 years,0.0,10
+872,Pennsylvania,Female,15-24 years,,20
+873,Pennsylvania,Female,25-34 years,,30
+874,Pennsylvania,Female,35-44 years,19.0,40
+875,Pennsylvania,Female,45-54 years,70.0,50
+876,Pennsylvania,Female,55-64 years,253.0,60
+877,Pennsylvania,Female,65-74 years,553.0,70
+878,Pennsylvania,Female,75-84 years,900.0,80
+879,Pennsylvania,Female,85 years and over,2067.0,90
+880,Rhode Island,Male,Under 1 year,0.0,0.5
+881,Rhode Island,Male,1-4 years,0.0,2.5
+882,Rhode Island,Male,5-14 years,0.0,10
+883,Rhode Island,Male,15-24 years,0.0,20
+884,Rhode Island,Male,25-34 years,,30
+885,Rhode Island,Male,35-44 years,,40
+886,Rhode Island,Male,45-54 years,,50
+887,Rhode Island,Male,55-64 years,49.0,60
+888,Rhode Island,Male,65-74 years,104.0,70
+889,Rhode Island,Male,75-84 years,132.0,80
+890,Rhode Island,Male,85 years and over,147.0,90
+891,Rhode Island,Female,Under 1 year,0.0,0.5
+892,Rhode Island,Female,1-4 years,0.0,2.5
+893,Rhode Island,Female,5-14 years,,10
+894,Rhode Island,Female,15-24 years,0.0,20
+895,Rhode Island,Female,25-34 years,,30
+896,Rhode Island,Female,35-44 years,,40
+897,Rhode Island,Female,45-54 years,,50
+898,Rhode Island,Female,55-64 years,21.0,60
+899,Rhode Island,Female,65-74 years,76.0,70
+900,Rhode Island,Female,75-84 years,121.0,80
+901,Rhode Island,Female,85 years and over,303.0,90
+902,South Carolina,Male,Under 1 year,,0.5
+903,South Carolina,Male,1-4 years,0.0,2.5
+904,South Carolina,Male,5-14 years,0.0,10
+905,South Carolina,Male,15-24 years,,20
+906,South Carolina,Male,25-34 years,,30
+907,South Carolina,Male,35-44 years,25.0,40
+908,South Carolina,Male,45-54 years,44.0,50
+909,South Carolina,Male,55-64 years,119.0,60
+910,South Carolina,Male,65-74 years,199.0,70
+911,South Carolina,Male,75-84 years,290.0,80
+912,South Carolina,Male,85 years and over,182.0,90
+913,South Carolina,Female,Under 1 year,0.0,0.5
+914,South Carolina,Female,1-4 years,0.0,2.5
+915,South Carolina,Female,5-14 years,0.0,10
+916,South Carolina,Female,15-24 years,,20
+917,South Carolina,Female,25-34 years,,30
+918,South Carolina,Female,35-44 years,,40
+919,South Carolina,Female,45-54 years,27.0,50
+920,South Carolina,Female,55-64 years,104.0,60
+921,South Carolina,Female,65-74 years,202.0,70
+922,South Carolina,Female,75-84 years,219.0,80
+923,South Carolina,Female,85 years and over,266.0,90
+924,South Dakota,Male,Under 1 year,0.0,0.5
+925,South Dakota,Male,1-4 years,0.0,2.5
+926,South Dakota,Male,5-14 years,0.0,10
+927,South Dakota,Male,15-24 years,0.0,20
+928,South Dakota,Male,25-34 years,,30
+929,South Dakota,Male,35-44 years,,40
+930,South Dakota,Male,45-54 years,,50
+931,South Dakota,Male,55-64 years,19.0,60
+932,South Dakota,Male,65-74 years,11.0,70
+933,South Dakota,Male,75-84 years,14.0,80
+934,South Dakota,Male,85 years and over,20.0,90
+935,South Dakota,Female,Under 1 year,0.0,0.5
+936,South Dakota,Female,1-4 years,0.0,2.5
+937,South Dakota,Female,5-14 years,0.0,10
+938,South Dakota,Female,15-24 years,,20
+939,South Dakota,Female,25-34 years,0.0,30
+940,South Dakota,Female,35-44 years,0.0,40
+941,South Dakota,Female,45-54 years,,50
+942,South Dakota,Female,55-64 years,10.0,60
+943,South Dakota,Female,65-74 years,11.0,70
+944,South Dakota,Female,75-84 years,10.0,80
+945,South Dakota,Female,85 years and over,32.0,90
+946,Tennessee,Male,Under 1 year,,0.5
+947,Tennessee,Male,1-4 years,0.0,2.5
+948,Tennessee,Male,5-14 years,0.0,10
+949,Tennessee,Male,15-24 years,0.0,20
+950,Tennessee,Male,25-34 years,,30
+951,Tennessee,Male,35-44 years,24.0,40
+952,Tennessee,Male,45-54 years,38.0,50
+953,Tennessee,Male,55-64 years,114.0,60
+954,Tennessee,Male,65-74 years,142.0,70
+955,Tennessee,Male,75-84 years,194.0,80
+956,Tennessee,Male,85 years and over,106.0,90
+957,Tennessee,Female,Under 1 year,0.0,0.5
+958,Tennessee,Female,1-4 years,,2.5
+959,Tennessee,Female,5-14 years,0.0,10
+960,Tennessee,Female,15-24 years,0.0,20
+961,Tennessee,Female,25-34 years,,30
+962,Tennessee,Female,35-44 years,,40
+963,Tennessee,Female,45-54 years,24.0,50
+964,Tennessee,Female,55-64 years,52.0,60
+965,Tennessee,Female,65-74 years,105.0,70
+966,Tennessee,Female,75-84 years,126.0,80
+967,Tennessee,Female,85 years and over,128.0,90
+968,Texas,Male,Under 1 year,,0.5
+969,Texas,Male,1-4 years,,2.5
+970,Texas,Male,5-14 years,,10
+971,Texas,Male,15-24 years,13.0,20
+972,Texas,Male,25-34 years,89.0,30
+973,Texas,Male,35-44 years,170.0,40
+974,Texas,Male,45-54 years,430.0,50
+975,Texas,Male,55-64 years,855.0,60
+976,Texas,Male,65-74 years,1227.0,70
+977,Texas,Male,75-84 years,1138.0,80
+978,Texas,Male,85 years and over,796.0,90
+979,Texas,Female,Under 1 year,0.0,0.5
+980,Texas,Female,1-4 years,,2.5
+981,Texas,Female,5-14 years,,10
+982,Texas,Female,15-24 years,10.0,20
+983,Texas,Female,25-34 years,31.0,30
+984,Texas,Female,35-44 years,92.0,40
+985,Texas,Female,45-54 years,198.0,50
+986,Texas,Female,55-64 years,425.0,60
+987,Texas,Female,65-74 years,713.0,70
+988,Texas,Female,75-84 years,795.0,80
+989,Texas,Female,85 years and over,956.0,90
+990,Utah,Male,Under 1 year,0.0,0.5
+991,Utah,Male,1-4 years,0.0,2.5
+992,Utah,Male,5-14 years,0.0,10
+993,Utah,Male,15-24 years,,20
+994,Utah,Male,25-34 years,,30
+995,Utah,Male,35-44 years,,40
+996,Utah,Male,45-54 years,15.0,50
+997,Utah,Male,55-64 years,39.0,60
+998,Utah,Male,65-74 years,46.0,70
+999,Utah,Male,75-84 years,55.0,80
+1000,Utah,Male,85 years and over,34.0,90
+1001,Utah,Female,Under 1 year,0.0,0.5
+1002,Utah,Female,1-4 years,0.0,2.5
+1003,Utah,Female,5-14 years,0.0,10
+1004,Utah,Female,15-24 years,,20
+1005,Utah,Female,25-34 years,,30
+1006,Utah,Female,35-44 years,,40
+1007,Utah,Female,45-54 years,,50
+1008,Utah,Female,55-64 years,12.0,60
+1009,Utah,Female,65-74 years,25.0,70
+1010,Utah,Female,75-84 years,32.0,80
+1011,Utah,Female,85 years and over,42.0,90
+1012,Vermont,Male,Under 1 year,0.0,0.5
+1013,Vermont,Male,1-4 years,0.0,2.5
+1014,Vermont,Male,5-14 years,0.0,10
+1015,Vermont,Male,15-24 years,0.0,20
+1016,Vermont,Male,25-34 years,0.0,30
+1017,Vermont,Male,35-44 years,,40
+1018,Vermont,Male,45-54 years,,50
+1019,Vermont,Male,55-64 years,,60
+1020,Vermont,Male,65-74 years,,70
+1021,Vermont,Male,75-84 years,16.0,80
+1022,Vermont,Male,85 years and over,,90
+1023,Vermont,Female,Under 1 year,0.0,0.5
+1024,Vermont,Female,1-4 years,0.0,2.5
+1025,Vermont,Female,5-14 years,0.0,10
+1026,Vermont,Female,15-24 years,0.0,20
+1027,Vermont,Female,25-34 years,0.0,30
+1028,Vermont,Female,35-44 years,,40
+1029,Vermont,Female,45-54 years,,50
+1030,Vermont,Female,55-64 years,0.0,60
+1031,Vermont,Female,65-74 years,,70
+1032,Vermont,Female,75-84 years,,80
+1033,Vermont,Female,85 years and over,10.0,90
+1034,Virginia,Male,Under 1 year,0.0,0.5
+1035,Virginia,Male,1-4 years,0.0,2.5
+1036,Virginia,Male,5-14 years,0.0,10
+1037,Virginia,Male,15-24 years,,20
+1038,Virginia,Male,25-34 years,,30
+1039,Virginia,Male,35-44 years,20.0,40
+1040,Virginia,Male,45-54 years,66.0,50
+1041,Virginia,Male,55-64 years,170.0,60
+1042,Virginia,Male,65-74 years,269.0,70
+1043,Virginia,Male,75-84 years,339.0,80
+1044,Virginia,Male,85 years and over,299.0,90
+1045,Virginia,Female,Under 1 year,0.0,0.5
+1046,Virginia,Female,1-4 years,0.0,2.5
+1047,Virginia,Female,5-14 years,0.0,10
+1048,Virginia,Female,15-24 years,0.0,20
+1049,Virginia,Female,25-34 years,,30
+1050,Virginia,Female,35-44 years,16.0,40
+1051,Virginia,Female,45-54 years,34.0,50
+1052,Virginia,Female,55-64 years,88.0,60
+1053,Virginia,Female,65-74 years,200.0,70
+1054,Virginia,Female,75-84 years,300.0,80
+1055,Virginia,Female,85 years and over,517.0,90
+1056,Washington,Male,Under 1 year,0.0,0.5
+1057,Washington,Male,1-4 years,0.0,2.5
+1058,Washington,Male,5-14 years,0.0,10
+1059,Washington,Male,15-24 years,,20
+1060,Washington,Male,25-34 years,,30
+1061,Washington,Male,35-44 years,16.0,40
+1062,Washington,Male,45-54 years,38.0,50
+1063,Washington,Male,55-64 years,100.0,60
+1064,Washington,Male,65-74 years,172.0,70
+1065,Washington,Male,75-84 years,222.0,80
+1066,Washington,Male,85 years and over,243.0,90
+1067,Washington,Female,Under 1 year,0.0,0.5
+1068,Washington,Female,1-4 years,0.0,2.5
+1069,Washington,Female,5-14 years,0.0,10
+1070,Washington,Female,15-24 years,0.0,20
+1071,Washington,Female,25-34 years,,30
+1072,Washington,Female,35-44 years,,40
+1073,Washington,Female,45-54 years,22.0,50
+1074,Washington,Female,55-64 years,49.0,60
+1075,Washington,Female,65-74 years,120.0,70
+1076,Washington,Female,75-84 years,182.0,80
+1077,Washington,Female,85 years and over,291.0,90
+1078,West Virginia,Male,Under 1 year,0.0,0.5
+1079,West Virginia,Male,1-4 years,0.0,2.5
+1080,West Virginia,Male,5-14 years,0.0,10
+1081,West Virginia,Male,15-24 years,0.0,20
+1082,West Virginia,Male,25-34 years,,30
+1083,West Virginia,Male,35-44 years,0.0,40
+1084,West Virginia,Male,45-54 years,,50
+1085,West Virginia,Male,55-64 years,,60
+1086,West Virginia,Male,65-74 years,18.0,70
+1087,West Virginia,Male,75-84 years,20.0,80
+1088,West Virginia,Male,85 years and over,14.0,90
+1089,West Virginia,Female,Under 1 year,0.0,0.5
+1090,West Virginia,Female,1-4 years,0.0,2.5
+1091,West Virginia,Female,5-14 years,0.0,10
+1092,West Virginia,Female,15-24 years,0.0,20
+1093,West Virginia,Female,25-34 years,,30
+1094,West Virginia,Female,35-44 years,0.0,40
+1095,West Virginia,Female,45-54 years,0.0,50
+1096,West Virginia,Female,55-64 years,,60
+1097,West Virginia,Female,65-74 years,14.0,70
+1098,West Virginia,Female,75-84 years,13.0,80
+1099,West Virginia,Female,85 years and over,27.0,90
+1100,Wisconsin,Male,Under 1 year,0.0,0.5
+1101,Wisconsin,Male,1-4 years,0.0,2.5
+1102,Wisconsin,Male,5-14 years,0.0,10
+1103,Wisconsin,Male,15-24 years,,20
+1104,Wisconsin,Male,25-34 years,,30
+1105,Wisconsin,Male,35-44 years,11.0,40
+1106,Wisconsin,Male,45-54 years,35.0,50
+1107,Wisconsin,Male,55-64 years,72.0,60
+1108,Wisconsin,Male,65-74 years,128.0,70
+1109,Wisconsin,Male,75-84 years,131.0,80
+1110,Wisconsin,Male,85 years and over,126.0,90
+1111,Wisconsin,Female,Under 1 year,0.0,0.5
+1112,Wisconsin,Female,1-4 years,0.0,2.5
+1113,Wisconsin,Female,5-14 years,0.0,10
+1114,Wisconsin,Female,15-24 years,,20
+1115,Wisconsin,Female,25-34 years,,30
+1116,Wisconsin,Female,35-44 years,,40
+1117,Wisconsin,Female,45-54 years,14.0,50
+1118,Wisconsin,Female,55-64 years,47.0,60
+1119,Wisconsin,Female,65-74 years,83.0,70
+1120,Wisconsin,Female,75-84 years,112.0,80
+1121,Wisconsin,Female,85 years and over,168.0,90
+1122,Wyoming,Male,Under 1 year,0.0,0.5
+1123,Wyoming,Male,1-4 years,0.0,2.5
+1124,Wyoming,Male,5-14 years,0.0,10
+1125,Wyoming,Male,15-24 years,0.0,20
+1126,Wyoming,Male,25-34 years,0.0,30
+1127,Wyoming,Male,35-44 years,0.0,40
+1128,Wyoming,Male,45-54 years,,50
+1129,Wyoming,Male,55-64 years,,60
+1130,Wyoming,Male,65-74 years,,70
+1131,Wyoming,Male,75-84 years,,80
+1132,Wyoming,Male,85 years and over,,90
+1133,Wyoming,Female,Under 1 year,0.0,0.5
+1134,Wyoming,Female,1-4 years,0.0,2.5
+1135,Wyoming,Female,5-14 years,0.0,10
+1136,Wyoming,Female,15-24 years,0.0,20
+1137,Wyoming,Female,25-34 years,,30
+1138,Wyoming,Female,35-44 years,0.0,40
+1139,Wyoming,Female,45-54 years,,50
+1140,Wyoming,Female,55-64 years,,60
+1141,Wyoming,Female,65-74 years,,70
+1142,Wyoming,Female,75-84 years,,80
+1143,Wyoming,Female,85 years and over,,90
+1144,Puerto Rico,Male,Under 1 year,0.0,0.5
+1145,Puerto Rico,Male,1-4 years,0.0,2.5
+1146,Puerto Rico,Male,5-14 years,0.0,10
+1147,Puerto Rico,Male,15-24 years,0.0,20
+1148,Puerto Rico,Male,25-34 years,,30
+1149,Puerto Rico,Male,35-44 years,,40
+1150,Puerto Rico,Male,45-54 years,15.0,50
+1151,Puerto Rico,Male,55-64 years,0.0,60
+1152,Puerto Rico,Male,65-74 years,0.0,70
+1153,Puerto Rico,Male,75-84 years,0.0,80
+1154,Puerto Rico,Male,85 years and over,0.0,90
+1155,Puerto Rico,Female,Under 1 year,0.0,0.5
+1156,Puerto Rico,Female,1-4 years,0.0,2.5
+1157,Puerto Rico,Female,5-14 years,,10
+1158,Puerto Rico,Female,15-24 years,0.0,20
+1159,Puerto Rico,Female,25-34 years,,30
+1160,Puerto Rico,Female,35-44 years,,40
+1161,Puerto Rico,Female,45-54 years,,50
+1162,Puerto Rico,Female,55-64 years,0.0,60
+1163,Puerto Rico,Female,65-74 years,0.0,70
+1164,Puerto Rico,Female,75-84 years,0.0,80
+1165,Puerto Rico,Female,85 years and over,0.0,90
