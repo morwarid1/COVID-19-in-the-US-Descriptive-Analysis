@@ -24,4 +24,4 @@ During this project, I got to explore many new libraries in python and new techn
 
 As I mentioned in step 7, that my recommendation is to start the vaccinations with the top 10 states identified. Priorities the vulnerable populations in the top 10 states identified and all other states. The next steps should be measuring the deaths caused by the COVID-19 after ending the vaccinations. It should be done as quantitative monitoring to see the impact of recommendation. Lastly, surveying the top 10 states identified after vaccinations to measure the changes.  
 
-Link to Tableau: https://public.tableau.com/profile/morwarid.najafizada#!/vizhome/USDeathsbyState/Covid-19CaseStudyDashboard
+Click [here](https://public.tableau.com/profile/morwarid.najafizada#!/vizhome/USDeathsbyState/Covid-19CaseStudyDashboard) to view the full Tableau presentation. 
